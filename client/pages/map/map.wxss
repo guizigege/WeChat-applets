@@ -1,0 +1,23 @@
+.nav{
+  font-size: 28rpx;
+  height: 70rpx;
+  line-height: 70rpx;
+  width:100%;
+  background-color:rgba(220,225,237,0.5);
+  position: relative;
+}
+.nav button{
+  font-size: 28rpx;
+  width: 160rpx;
+  height: 70rpx;
+  background-color: rgba(54,165,218,0.8);
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.other-button-hover{
+  color: #fff;
+  opacity: 0.8;
+  box-shadow: 3rpx 3rpx 3rpx #000 inset;
+}
+

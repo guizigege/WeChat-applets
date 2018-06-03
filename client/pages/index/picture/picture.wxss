@@ -1,0 +1,6 @@
+/* pages/index/picture/picture.wxss */ 
+image{
+  width: 30%; 
+  height: 260rpx;
+  margin: 1% 1%;
+}

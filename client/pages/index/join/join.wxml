@@ -1,0 +1,27 @@
+<view class="border">
+      <view class="title">留言板</view>
+      <view class="content">
+        <form class="wrap" enctype="application/x-www-form-urlencoded">
+          <view class="item"><text>姓名：</text><input placeholder="{{placeholder1}}"  placeholder-class="fz" bindfocus="focus1"  bindblur="blur1" name="user"/><image  class="icon-success" src="../../../images/pass.png" hidden="{{show1}}"></image><image class="icon-error" src="../../../images/error.png" hidden="{{show2}}"></image></view>
+          <view class="item"><text>邮箱：</text><input placeholder-class="fz" bindfocus="focus2" placeholder="{{placeholder2}}"  bindblur="blur2" name="email" /><image  class="icon-success" src="../../../images/pass.png" hidden="{{show3}}"></image><image class="icon-error" src="../../../images/error.png" hidden="{{show4}}"></image></view>
+          <view class="item"><text>手机：</text><input type="number" placeholder-class="fz" bindfocus="focus3" placeholder="{{placeholder3}}" maxlength="11"  bindblur="blur3" name="phone"/><image  class="icon-success" src="../../../images/pass.png" hidden="{{show5}}"></image><image class="icon-error" src="../../../images/error.png" hidden="{{show6}}"></image></view>
+          <view style="width: 100%"><text>内容:</text><textarea name="content" bindblur="bindTextAreaBlur"></textarea></view>
+          <view class="tip">{{tip}}</view>
+             
+          
+        <view class="buttonView">
+              <button  formType="submit" hover-class="btn-hover" bindtap="send" disabled="{{change}}" class="{{change?'btnDisabled':'btn'}}">提交</button>
+        </view> 
+          
+          
+        </form>
+
+         
+      
+      </view>
+
+  
+
+
+
+</view>

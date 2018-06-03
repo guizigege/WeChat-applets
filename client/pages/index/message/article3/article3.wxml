@@ -1,0 +1,34 @@
+<view class="article">
+  <view class="title">2018第6届美国加州圣地亚哥微留学开始报名了</view>
+  <view class="time">发表于：2017-09-12</view>
+
+  <view class="content">
+    <view><text>项目费用：</text>11天27800元全包</view>
+    <view><text>费用包括：</text>往返机票及税费、签证费、境外保险、住宿、早餐午餐晚餐、课程学习、交通费、校外活动、参观游览文化探访的所有门票。</view>
+    <view><text>费用不含：</text>国内交通费用、广州往返香港机场的机场大巴费用。 </view>
+    <view><text>时   间：</text>2018年2月10日-2月20日，11天</view>
+    <view><text>课程安排：</text>周一至周五每天上午4个学时</view>
+    <view><text>课程类型：</text>英语课程，美国文化课程，美国原版教材</view>
+    <view><text>住宿安排：</text>寄宿家庭，每个家庭两名营员，空调，热水，WIFI等。  </view>
+    <view><text>饮食安排：</text>早餐、晚餐在寄宿家庭，午餐在学校餐厅。</view>
+    <view><text>交通安排：</text>每天上学下学自行乘坐公交车、地铁往返寄宿家庭，文化探访、休闲游览等由学校统一安排交通。</view>
+    <view><text>通讯安排：</text>学生自行购买圣地亚哥手机卡(GSMWCDMA制式)，或者使用寄宿家庭电话及网络上网。</view>
+    <view><text>咨询报名：</text>广州天河龙洞 袁老师 13682229688</view>
+    <view><text>咨询QQ或者微信:</text>10509512 QQ群：313888669</view>
+    <view>
+      <text>行程特色：</text>
+      <view>1、费用低廉，本项目属于国际交换生计​‌‌​‌‌划项目，名额有限，比类似行程节省10000元费用。</view>
+      <view>2、安全，全寄宿家庭制，圣地亚哥治安良好，人们热情友善，景色怡人，营员全程入住圣地亚哥当地中产家庭（寄宿家庭全部由圣地亚哥政府审查指定），生活由老外临时父母照顾，包括吃饭，洗衣，娱乐的活动。既能够了解异域的生活方式，又能锻炼自己的英语交流能力。</view>
+      <view>3、体验纯正24小时英语环境，全程由圣地亚哥学校当地老师带领活动，中国老师仅仅护送陪同。</view>
+      <view>4、拒绝走马观花旅游团式行程，深入深入再深入，充分利用时间，深刻体验美国人的生活方式。</view>
+      <view>5、100%获得十年美国签证（今后该政策可能取消），今后十年内任意出入美国，不限制次数。</view>
+    </view>
+   
+  </view>
+</view>
+
+
+<view class="pic">
+  <view class="pic-title">具体行程：</view>
+  <image src="http://www.qmcamp.com/UploadFiles/201710239106985.jpg" bindtap="previewImage" />
+</view>

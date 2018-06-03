@@ -1,0 +1,41 @@
+/**app.wxss**/
+.container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+
+  justify-content: space-between;
+  padding: 200rpx 0;
+  box-sizing: border-box;
+} 
+.article{
+  font-size: 32rpx;
+  color:#333;
+  margin-top: 36rpx;
+}
+.article .title{
+  color:#DD4822;
+  font-weight:900;
+  text-align:center;
+}
+.time{
+  color:#333;
+  font-size:22rpx;
+  text-align:center;
+}
+.article text{
+  font-weight:900; 
+}
+.article .content{
+  margin-left: 14rpx;
+}
+.pic .pic-title{
+  font-size: 32rpx;
+  font-weight: 900;
+  color: #333;
+}
+.pic image{
+  width: 100%;
+  height: 680rpx;
+  
+}

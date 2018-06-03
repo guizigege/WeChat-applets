@@ -1,0 +1,4 @@
+<!--pages/index/picture/picture.wxml-->
+<view class="pictureBox">
+  <image wx:for="{{imageList[index].pic}}" wx:key="{{item.id}}" src="{{item.picSrc}}" bindtap="previewImage" data-src="{{item.picSrc}}" />
+</view>

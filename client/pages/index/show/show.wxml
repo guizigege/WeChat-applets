@@ -1,0 +1,19 @@
+<view class="page" >
+<!-- 底部页面菜单 -->
+  <view class="page-bottom"> 
+    <view class="page-content" bindtap="getImage">
+      <view class="wc {{currentTab == (index+1)?'on':''}}" wx:for="{{showData}}" wx:key="{{item.key}}" id="{{item.id}}" data-current="{{item.id}}">{{item.title}} </view>
+    </view>
+  </view>
+  <!-- 顶部页面内容 -->
+  <view bindtouchstart="start" bindtouchmove="move" bindtouchend="end" class="page-top {{open ? 'c-state1' : ''}}">
+    <view class="top">
+       
+       <view class="icon"> <image bindtap="tap_ch" src="../../../images/itemBar.png" ></image></view>
+      
+        <view class="tt">游学展示</view>
+    </view>
+
+    <view class="showPic" wx:for="{{showData[index].content}}" wx:key="{{item.id}}"><image src="{{item.imageUrl}}"  ></image></view>
+  </view>
+</view>

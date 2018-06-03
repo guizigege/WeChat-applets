@@ -1,0 +1,822 @@
+<!--pages/swiper/course/england/england.wxml-->
+<view>
+    <image src="http://img4.imgtn.bdimg.com/it/u=870175984,4081254892&fm=200&gp=0.jpg" style="width: 100%"></image>
+</view>
+
+
+<view class="fw red">2018新西兰全真留学体验营+国际学校插班+寄宿家庭+户外运动+科学考察15日</view>
+
+<view class="hot-bg">
+      <view class="price inline fr fw">￥24800/人</view>
+      <view class="active fw">优惠活动:<view class="price discount" bindlongpress="show1" bindtouchend="hidden1">优惠券<view class="tip tip1" wx:if="{{show1}}" >1、每人可使用往期发放的优惠券两张。 
+2、新报名的同学每人发放两张优惠券，可赠与别人或下次参加其他线路使用。</view></view> <view class="price discount" bindlongpress="show2" bindtouchend="hidden2">早鸟优惠<view class="tip tip2" wx:if="{{show2}}" >1、5人组团报名每人可优惠500元。（4月份报名早鸟优惠） 
+2、早鸟优惠与优惠券不可同时使用。</view></view> </view>
+      
+  
+
+</view> 
+
+<view><text class="fw">行程时间：</text>2018年8月14日-2018年8月28日，共计15天</view>
+
+
+<view class="line"></view>
+<view>
+   <view class="fw"><text class="blue">特色推荐：</text></view>
+   <view>★ 超高性价比，交换生项目，6岁以上学生和家长可参加，10岁以上可独立参加</view>
+   <view>★ 第8届成熟线路，专业老师带队，国际学校插班上课，与世界各地同学同窗共读</view>
+   <view>★ 拒绝旅行团式走马观花，全程深入一地，沉浸式学习，寄宿家庭（可选酒店）</view>
+</view>
+<view class="line"></view>
+
+
+
+<view>
+  <view class="spa">奥克兰简介</view>
+  <view class="fw red">奥克兰</view>
+  <view class="ti">在奥克兰这座海港城市游学，可以使你深切体会到大自然的无限风光，海滩，峡湾，广阔的太平洋，遥遥相对的南极洲，这些壮丽的景色和你咫尺之遥。你还有机会见识毛利人传统的历史与文化和新西兰本地的波利尼西亚人。 在奥克兰游学以拓展学生视野、提高英语水平为目的，在这期间你可以通过专业的英语老师提高自己的听说读写能力，通过课余时间参观游览，领略异域美丽风光。经过本次的游学历程，可以锻炼独立生活能力，体验海外生活经验，为今后留学打下坚实基础。
+</view>
+  <view><image src="http://img1.imgtn.bdimg.com/it/u=1161874886,3776453361&fm=27&gp=0.jpg" class="picture"/></view>
+  <view class="fw red">友情提示</view>
+  <view>  
+      <view class="ti">1、八月是新西兰的春天，是新西兰春暖花开的季节，这时候的新西兰绿草如茵，花团锦簇，对于全世界喜欢大自然，户外运动的人来说是天堂。</view><view class="ti"> 2、新西兰是纯正英语国家，越来越多国际留学生来新西兰求学，这里的教学质量和环境非常好，而且学费低廉，政府公立学校一年学费仅仅6万人民币，是今后孩子留学的好选择。通过本次游学可以使家长和孩子深刻感受到新西兰的教育水平和环境，实地考察新西兰学校，掌握第一手资讯。 3、新西兰元本年度汇率一路走低，现在去新西兰旅游购物性价比非常高，新西兰的健康保健品、羊毛制品、奶制品、服装的质量享誉全球，利用现在的低汇率时机购物，可以节省很多，买到又便宜又好的本地特产。</view> 
+  </view> 
+</view>
+
+<view class="line"></view>
+<view>
+  <view class="spa">夏令营特色</view>
+  <view class="fw red">新西兰夏令营/微留学</view>
+  <view>1.全真留学课程体验，24小时纯正英语环境： 同学们进入学校开始课程学习前要进行入学测试，根据成绩插班进入不同班级学习，与世界各地同学同窗共读。课程结束获得国际学校毕业证书，为今后留学加分。</view>
+  <view>2.文化交流之旅，体验本地风情文化： 参观新西兰著名大学，博物馆，探访毛利民族聚居地，欣赏民族文化传统。</view>
+  <view>3.拥抱纯净大自然和动物，放松身心，体验人与自然和谐之美： 参观新西兰南极海洋世界，极地馆，动物园，天鹅湖。</view>
+  <view>4. 参观奥克兰天文馆，观看IMAX科学探索电影，感受人类发现宇宙澳门的历程，听天文学家讲授宇宙秘密。</view>
+  <view>
+        <image src="http://img3.imgtn.bdimg.com/it/u=2322700188,1107908349&fm=27&gp=0.jpg" class="picture"/>
+  </view>
+  <view class="fw red">课程特色</view>
+  <view>
+    <view class="ti">访学时间：2018年8月14日至8月28日，共计15天。
+根据不同的学习目标、学生的英语水平和专业背景、及参加访学的目标，学生首先进行入学测试，然后根据成绩分班，主要学习英语及美国文化课程。前7届已经有150名同学参加了本访学项目，收获很大。 英语及新西兰文化课程简介该课程通过两周的学习可以提高英文水平、了解新西兰社会、增进对不同文化的认识和理解、提高创新意识和国际意识的同学。通过与来自世界各地的国际学生一起学习，提高英语水平和国际交流能力。课程内容包括英语听说读写、新西兰历史、新西兰文化等，并辅以专题讲座、小组讨论及校园文化实践、国际学生交流活动等形式，拓宽学生的国际视野，切实提高英语使用的综合能力。学习结束，学生可以获得学校颁发的英语课程学时证书，作为今后出国留学，申请海外学校的重要依据。</view>
+  </view>
+  <view class="fw red">行程特色</view>
+  <view>
+    <view>★『超高性价比』 学费低廉，比其他国家游学更优惠，行程价格已经包括了往返机票和签证。</view>
+    <view>★『安全，舒适』奥克兰治安良好，人们热情友善。孩子和家长入住寄宿家庭，生活由老外临时父母照顾，包括吃饭，洗衣等。既能够了解异域的生活方式，又能锻炼英语交流能力，体验地地道道本地人的生活。</view>
+    <view>★『体验纯正24小时英语环境』上午在本地国际学校上课，下午由新西兰本地老师带领讲解各种参观游览活动，晚上入住寄宿家庭。中国老师仅仅陪同。</view>
+    <view>★『拒绝走马观花，深入式行程安排』每天上午安排4个学时的英语及文化课程学习，下午安排丰富多彩的活动，周末和寄宿家庭一起活动，深入本地人的生活，充分体验新西兰的碧海蓝天</view>
+    <view>★『国际班插班学习』和世界各地同学一起同窗学习（10岁以上可以插班，10岁以下私教课程），提高英语水平的同时结交各国朋友。</view>
+      <view>★『独特亲子行程安排』全程活动和孩子在一起，一起到极地馆看帝企鹅，参观奥克兰博物馆，攀岩运动等等，一起活动，拉近亲子的距离</view>
+      <view>特别提示：家长亲子参加，入住皇后大街酒店入住，地理位置优越，有小厨房可做饭。</view>
+  </view>
+
+  <view class="line"></view>
+  <view class="fw blue" style="text-align:center">====访学收获====</view>
+  <view class="fw red">★ 访学经历增加了申请国外一流大学的竞争力</view>
+   <view class="fw red">★ 访学经历增加就业竞争力</view>
+     <view class="fw red">★ 亲自观察异国的风景、亲身体验他国的文化</view>
+     <view class="fw red">★ 访学是自我历练的过程</view>
+     <view class="fw red">★ 访学是提高自我认知、自我发现的过程</view>
+  <view class="fw red">★ 即学即用是最有效的学习语言的方式</view>
+
+  <view>
+        <image src="http://img0.imgtn.bdimg.com/it/u=658698301,3653254485&fm=27&gp=0.jpg" class="picture"/>
+  </view>
+ 
+
+  <view class="line"></view>
+  <view class="spa">费用说明</view>
+  <view class="red fw">行程费用</view>
+  <view>
+      <view class="fw">15天28800元全包</view>
+      <view>费用包括：往返机票及税费、签证费、境外保险、住宿、早餐午餐晚餐、课程学习、交通费、校外活动、参观游览文化探访的所有门票。费用不含国内交通费用、广州往返香港机场的机场大巴费用，发票税费。</view>
+  </view>
+<view>
+      <view class="fw red">早鸟优惠：</view>
+      <view>1、5人同时报名，每人优惠500元。</view>
+      <view>2、每人可以使用往届发放的优惠券两张。</view>
+</view> 
+
+<view class="line"></view>
+
+
+
+  <view clas="line"></view>
+  <view class="spa" style="border-bottom: 2rpx solid #777">行程介绍</view>
+  <view class="swiper-tab"> 
+    <view style="border-bottom: 2rpx solid #777;box-sizing: border-box">
+      <view class="swiper-tab-list {{currentTab==0 ? 'on' : ''}}" data-current="0" bindtap="swichNav">第一天</view>  
+      <view class="swiper-tab-list {{currentTab==1 ? 'on' : ''}}" data-current="1" bindtap="swichNav">第二天</view>  
+      <view class="swiper-tab-list {{currentTab==2 ? 'on' : ''}}" data-current="2" bindtap="swichNav">第三天</view>  
+      <view class="swiper-tab-list {{currentTab==3 ? 'on' : ''}}" data-current="3" bindtap="swichNav">第四天</view> 
+      <view class="swiper-tab-list {{currentTab==4 ? 'on' : ''}}" data-current="4" bindtap="swichNav">第五天</view> 
+    </view>
+    <view style="border-bottom: 2rpx solid #777;box-sizing: border-box">
+      <view class="swiper-tab-list {{currentTab==5 ? 'on' : ''}}" data-current="5" bindtap="swichNav">第六天</view>  
+      <view class="swiper-tab-list {{currentTab==6 ? 'on' : ''}}" data-current="6" bindtap="swichNav">第七天</view>  
+      <view class="swiper-tab-list {{currentTab==7 ? 'on' : ''}}" data-current="7" bindtap="swichNav">第八天</view>  
+      <view class="swiper-tab-list {{currentTab==8 ? 'on' : ''}}" data-current="8" bindtap="swichNav">第九天</view> 
+      <view class="swiper-tab-list {{currentTab==9 ? 'on' : ''}}" data-current="9" bindtap="swichNav">第十天</view>
+      </view>
+
+      <view class="swiper-tab-list {{currentTab==10 ? 'on' : ''}}" data-current="10" bindtap="swichNav">第十一天</view>  
+      <view class="swiper-tab-list {{currentTab==11 ? 'on' : ''}}" data-current="11" bindtap="swichNav">第十二天</view>  
+      <view class="swiper-tab-list {{currentTab==12 ? 'on' : ''}}" data-current="12" bindtap="swichNav">第十三天</view>  
+      <view class="swiper-tab-list {{currentTab==13 ? 'on' : ''}}" data-current="13" bindtap="swichNav">第十四天</view> 
+      <view class="swiper-tab-list {{currentTab==14 ? 'on' : ''}}" data-current="14" bindtap="swichNav">第十五天</view>
+</view>  
+
+
+      <view wx:if="{{show[0]}}" data-id="1">
+        
+          <view class="fw red">第1天 全国各地/香港飞往奥克兰</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view><text class="fw">航班：</text>全国各地</view>
+                <view class="ti">香港飞洛杉矶（直飞），转大巴抵达圣地亚哥，与寄宿家庭见面，由临时父母开车接回家晚上入住寄宿家庭。(具体集合时间与地点，出团前会详细电话邮件通知)全国各地的同学和家长可以在广州集合，统一前往香港机场乘机出发。也可以自行前往香港机场，和领队老师机场汇合出发。集合出发事宜请咨询客服老师。
+。</view>
+          </view>
+
+          
+
+         
+
+          <view>
+                <image src="http://img3.imgtn.bdimg.com/it/u=1754266538,2270412535&fm=27&gp=0.jpg" class="picture"/>
+          </view>   
+
+          <view>
+                <view><text class="blue">晚上</text></view>
+                <view class="fw">航班: 参考航班：国泰航空CX197</view>
+          </view> 
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：自理；午餐：自理；晚餐：自理</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">自理</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">飞机</view>
+          </view>
+
+
+
+          <view>
+                <view><text class="blue">温馨提示</text></view>
+                <view>集合出发方式（不用带港澳通行证）： </view>
+                <view>1、同学们可以根据航班时间提前抵达香港机场同领队老师汇合（国内交通费用自理）</view>
+
+                <view>2、可以在广州汇合，由领队老师统一带领，乘坐机场大巴抵达香港机场（大巴费用自理）</view>
+                <view>3、可以在深圳口岸与领队老师汇合，一起过关抵达香港机场（大巴费用自理）  </view>
+                <view>4、单独参加的同学必须到广州集合，统一出发。老师到机场或车站接站，如果提前一天集合，可以安排食宿（费用自理）</view>
+                  
+          </view>
+        
+
+      </view>
+
+
+       <view wx:if="{{show[1]}}" data-id="2">
+        
+          <view class="fw red">第2天 抵达新西兰奥克兰-入住寄宿家庭（家长住市中心酒店）</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">抵达奥克兰机场-学校开欢迎会-寄宿家庭见面-晚上入住寄宿家庭</view>
+          </view>
+
+          
+
+         
+
+          <view>
+                <image src="http://img2.imgtn.bdimg.com/it/u=2431732568,841967682&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">抵达奥克兰机场</view>
+                <view class="ti">抵达奥克兰机场后学校专车专人接机,抵达学校后开欢迎会，熟悉学校周边环境，然后与寄宿家庭见面，由临时父母开车接回家，晚上入住寄宿家庭。在寄宿家庭用晚餐。</view> 
+                <view>★ 家长亲子参加，可以和孩子一起入住市中心酒店式公寓（三餐自理）</view> 
+                <view>★ 10岁以上孩子可以单独参加，根据性别搭配，两个孩子入住一个寄宿家庭（早餐晚餐有寄宿家庭提供，午餐自理）。</view>  
+                <view>★ 家长行程安排：上午自由活动，可以在学校周边商业街休闲逛街，或者公园博物馆漫步(第一天老师会带领家长熟悉环境，推荐好玩好吃的地方），中午回到学校，和孩子一起共进午餐，下午和孩子一起参观游览。</view>
+                  <view class="red fw">奥克兰</view>
+                  <view class="ti">奥克兰位于新西兰北岛中央偏北地带，伫立在塔斯曼海与太平洋之间的细长的地峡上，两面环海，东侧是濒临瀚太平洋的威特马塔港（Waitemata）。在港湾之外，散落着如同珍珠般的零星岛屿；港湾内，舟楫横阵，海水清澈，海港大桥连着两个港湾。大桥、港湾和沉睡的朗吉脱脱（Rangitoto）火山，充满着蓄势待发的蓬勃生气。奥克兰的地形非常适合帆船运动，城中居民多拥有私人船只，所以又有“风帆之都”的美誉。奥克兰气候温和多雨，四季分明，全年气温在6—28℃之间。</view>
+
+          </view> 
+
+
+       <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：已含；午餐：自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">自理</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>
+  
+ 
+
+      </view>
+
+
+       <view  wx:if="{{show[2]}}" id="3">
+        
+          <view class="fw red">第3天 分级测试-入学典礼-参观天空塔-维多利亚公园-奥克兰大学</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">奥克兰国际学校课程-天空塔-奥克兰大学-奥克兰维多利亚山</view>
+                <view>温馨提示：同学们上午进行入学测试，要带笔带本。</view>
+          </view>
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">奥克兰国际学校课程学习</view>
+                <view class="ti">举行盛大开学典礼，欢迎家长和同学到访奥克兰。然后进行分班测试（口语和笔试），根据测试成绩进行分班学习，插班进入不同的班级，和来自世界各地的同学同窗共读。教师为新西兰本地资深老师，采用原版英文教材，教学氛围轻松活泼，教学形式多种多样，针对不同教学内容采用互动游戏，问答抢答，角色扮演等方式，鼓励同学们参与其中，互相交流，同时配合使用多媒体教学设备，寓教于乐，深受同学们喜欢，极大激励了同学们学习英语的兴趣。
+特别说明：11岁以上同学可以插班入读，和世界各地同学同窗共读。
+11岁以下（含11岁）同学不能插班，由学校特别安排教学计划和课程，小班教学，定制课程，收获更多。</view>
+          </view> 
+          <view>
+                <image src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3931034958,2230038020&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">天空塔</view>
+                <view class="ti">天空塔高达328米，是新西兰也是南半球超高的建筑。它就像奥克兰的指挥棒，调动着奥克兰的主旋律，指挥着周围建筑像演奏者般向它看齐。天空塔有三个透明的电梯，以时速18公里的速度上升，带你到顶部的观望台和旋转餐厅仅需40秒钟，在那里你就能够像天使一样俯瞰整座奥克兰城。</view> 
+                <view class="red fw">奥克兰大学</view>
+                <view class="ti">奥克兰大学始创于1883年，是新西兰规模最大、科系最多的高等教育机构。奥克兰大学是国际教学中心和学术精英聚集之地。大学坐落在新西兰最大的城市——拥有130万人口的奥克兰市中心，为其近三万名学生提供了一个精彩刺激的环境。</view>
+                 <view class="red fw">奥克兰维多利亚山</view>
+                <view class="ti">维多利亚是看奥克兰全景的最佳地点，在山顶可以瞭望整个奥克兰市风景。山上有个隐藏炮台，当年为了防御俄国在太平洋扩张而修的要塞，直到现在还保留了当时的炮台。 维多利亚公园位于奥克兰CBD中心，紧邻奥克兰大学，绿树成荫，鲜花盛开。园中喷泉，巨大玉兰树吸引城市工作的人去放松身心。</view>
+
+                  
+          </view> 
+
+
+
+           <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：已含；午餐：自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>
+  
+ 
+
+      </view>
+
+
+      <view  wx:if="{{show[3]}}" id="4">
+          <view class="fw red">第4天 课程学习-参观凯丽南极海洋世界-极地馆-使命湾</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">上午课程学习-凯利塔顿海底世界-使命湾</view>
+          </view>
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">奥克兰国际学校课程学习</view>
+                <view class="ti">和世界各地同学一起同窗共读</view> 
+          </view> 
+          <view>
+                <image src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2194123089,1963510360&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">凯利塔顿海底世界</view>
+                <view class="ti">这就搭乘南极馆令人瞩目的鲨鱼形象接送车，去探索南太平洋海底的奥秘和宝藏咯！馆内展出主题分南极生态馆及海底世界两部份。南极生态馆的主题是模拟南极的生态环境。你可以搭乘冰原探险车进入零下二度的观赏区，这里可以看到走在人造雪地或是潜入水底的帝企鹅和巴布亚企鹅们。每当有探险车经过时，热情的企鹅们都起立张望，极具憨态和绅士风度。你还会看到经历着“换毛期”的企鹅躺在雪地上一动不动，慵懒又邋遢。 在这里同学们可以探索南太平洋海底的奥秘和自然宝藏、目睹在冰天雪地里玩耍的企鹅、感受魔鬼鱼和大鲨鱼自由自在的从你头顶游过的刺激。</view>
+                <view class="red fw">使命湾</view>
+                <view class="ti">使命湾，因港湾里的美拉尼西亚使命楼使命楼而得名。湾北边是泛着微光的怀特玛塔港，东边是伊托托岛，一派岛屿风光的使命湾是奥克兰人的海滩度假胜地。 奥克兰最漂亮的海滩，看看超级富豪居住的海湾大道，会游泳的伙伴还可以在大海里一试身手，拥抱新西兰的纯净海水。
+★温馨提示：告诉大家一个秘密，整个奥克兰最有名，非常好吃的冰激凌店就在这个海湾大道旁边，各种口味俱全，当然价格也不菲，大家要做好思想准备。</view>
+          </view> 
+       <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：已含；午餐：自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>  
+      </view>
+
+
+      <view  wx:if="{{show[4]}}" id="5">
+          <view class="fw red">第5天 课程学习 攀岩拓展训练</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">奥克兰国际学校课程学习-攀岩拓展训练</view>
+          </view>
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">奥克兰国际学校课程学习</view>
+                <view class="ti">和世界各地同学一起同窗共读</view> 
+          </view> 
+          <view>
+                <image src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1456955278,3841767231&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">攀岩拓展训练</view>
+                <view class="ti">去奥克兰最大的◤攀岩俱乐部◢进行攀岩拓展训练（Clip N Climb），战胜自己的恐惧，展示绝佳的运动和平衡能力。 ★温馨提示：攀岩一定要穿一双运动鞋和宽松的运动服，运动饮料和水一定要多多准备，攀岩运动量大得出乎你想象。</view>
+   
+        
+          </view> 
+
+<view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：已含；午餐：自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>  
+
+      </view>
+
+
+      <view  wx:if="{{show[5]}}" id="6">
+          <view class="fw red">第6天 奥克兰-皇后大街休闲-奥克兰美术馆</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">皇后大街-奥克兰美术馆</view>
+          </view>
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">皇后大街</view>
+                <view class="ti">女王大街，带一点傲慢，带一点世俗，你可以不去，但你很可能会因此错过奥克兰某种刻板又时尚的气息，这种气息主要来自19世纪末至20世纪中叶的那些老建筑：爱德华巴洛克式风格的奥克兰码头大楼、19世纪希腊复兴式风格的新西兰银行大厦、英国哥特式风格的圣帕特里克大教堂、英国殖民风格的奥克兰市政厅…… 皇后大街休闲逛街。体验新西兰人周末的放松方式，可以购买新西兰本地特产，例如蜂蜜，绵羊油等等</view> 
+          </view> 
+          <view>
+                <image src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3771875921,582952276&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          <view>  
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">奥克兰美术馆</view>
+                <view class="ti">于1888年建造，是新西兰国内历史最悠久的美术馆。本馆为文艺复兴风格的白色建筑，馆藏多达1万件以上，其中包括现代新西兰艺术作品及近代欧洲绘画除了一般展览之外，也举办国外艺术家特展。 奥克兰美术馆是奥克兰最重要的美术馆，成立于1888年，是新西兰第一个拥有固定展览的美术馆。它广泛的收集了新西兰和世界其他国家的艺术作品，同时也会举办一些国际性的展览。奥克兰美术馆的外表为吸引眼球的白色建筑，给人一种很文艺的感觉，内部面积广阔。 奥克兰美术馆在教育方面做出了巨大贡献，扩大了教学区，方便学生来此参观学习，此外，家庭互动的空间也得到了扩大。在美术馆中，还有咖啡店、礼品店，方便游客休憩和购物。</view> 
+          </view> 
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：已含；午餐：自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>  
+      </view>
+
+
+      <view  wx:if="{{show[6]}}" id="7">
+          <view class="fw red">第7天 奥克兰-全天与寄宿家庭欢聚</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">全天与寄宿家庭欢聚，深刻体验本地人周末度假休闲方式</view>
+          </view>
+          <view>  
+                <view><text class="blue">全天</text></view>
+                <view class="red fw">家庭日活动</view>
+                <view class="ti">在寄宿家庭父母的带领下，参加家庭日活动，例如去海边烧烤，教堂聚会，超市购物，走亲访友等等。
+</view>  
+          </view> 
+          <view>
+                <image src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2176344271,3310549644&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+          
+        
+           <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：已含；午餐：已含；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>   
+      </view>
+
+
+      <view  wx:if="{{show[7]}}" id="8">
+        
+          <view class="fw red">第8天 全天户外课程-科学考察缇里缇里马塔基岛鸟类自然保护区</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">家长同学全天探索缇里缇里马塔基岛鸟类自然保护区</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">缇里缇里马塔基岛鸟类自然保护区</view>
+                <view class="ti">全天户外课程，和家长一起科学考察缇里缇里马塔基岛鸟类自然保护区。（Tiritiri Matangi day trip） 全程由新西兰鸟类保护专家讲解各种鸟类知识。在鸟岛海岸线探险，体验新西兰纯净大自然。 特别提示：保护区没有饮食售卖，要自己带午餐，没有垃圾桶，产生的垃圾都要带回奥克兰。同学们一定要注意环保，不能污染了环境。 在海岛探险穿越海岸线，寻找害羞的蓝色小企鹅，在纯净的海滩玩游戏，捡贝壳。</view> 
+          </view> 
+
+          <view>
+                <image src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3598090248,938021309&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+
+
+      
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：已含；午餐：自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>   
+ 
+
+      </view>
+
+
+
+      <view  wx:if="{{show[8]}}" id="9">
+        
+          <view class="fw red">第9天 课程学习-奥克兰中央公园-奥克兰博物馆</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">奥克兰国际学校课程学习-奥克兰中央公园</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">奥克兰国际学校课程学习</view>
+                <view class="ti">和世界各地同学一起同窗共读</view>
+
+         
+          </view> 
+
+          <view>
+                <image src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1709303777,3321311885&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+          
+          <view>  
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">奥克兰中央公园</view>
+                <view class="ti">奥克兰中央公园，是奥克兰最古老的公园。它处在奥克兰心脏地带上，同时传递着这样一条信息：早在很久以前，奥克兰就是一个令人放轻松、再放轻松的城市，你在这里要做的，无非是走来走去、发发呆、养养神。 奥克兰中央公园是奥克兰最古老的公园，坐落在市中心，巨大的草坪、露天剧场、温室花园，精美的雕塑和博物馆而闻名。可以在这里走来走去、发发呆、养养神。带着小朋友来参观博物馆，来这里散步、逗逗鸭子，观赏各种花卉，站在博物馆门前欣赏远处风景、或者躺在草坪欣赏蓝天白云，其乐无穷。</view>
+               <view class="red fw">奥克兰博物馆</view>
+                <view class="ti">奥克兰博物馆不仅仅是一座收藏毛利人历史和文物的博物馆，也是一座二战纪念馆。每年的4月25日澳大利亚和新西兰的二战胜利纪念日，博物馆都会在馆前矗立着的阵亡将士纪念碑前为在二战中牺牲的16万澳新将士举行隆重的悼念仪式。 奥克兰博物馆又称奥克兰战争纪念博物馆，被形容为是新西兰人文化与精神的试金石。它不仅是一座展示毛利人历史文化的博物馆，同时也一座反映二战历史的战争纪念馆。奥克兰博物馆位于新西兰的奥克兰市奥克兰公园内，是一所收藏历史和民族文物的博物馆。该馆是一座哥特式建筑，馆内陈设品丰富。同时我们还将欣赏毛利人歌舞表演。</view>
+         
+          </view>
+  
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：已含；午餐：自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>   
+ 
+ 
+
+      </view>
+
+
+
+      <view  wx:if="{{show[9]}}" id="10">
+          <view class="fw red">第10天 课程学习-德文波特小镇-新西兰海军博物馆</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">上午课程学习-德文波特-新西兰皇家海军博物馆</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">奥克兰国际学校课程学习</view>
+                <view class="ti">和世界各地同学一起同窗共读</view>
+
+          </view> 
+
+          <view>
+                <image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2791547762,4091973322&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">德文波特</view>
+                <view class="ti">德文波特是个迷人的海滨小镇，从奥克兰市中心乘渡轮跨怀特玛塔港(WaitemataHarbour)到这里，只需片刻时间。整座城镇弥漫着英式复古情怀从轮渡码头至维多利亚街，沿途有许多古董店铺及时尚的餐厅。由此步行约10分钟，爬上坡道便可抵达维多利亚删。维多利亚删为死火山，从这座标高不到100米的小山丘上，眺望对岸的奥克兰市景及海港大桥，真是美不胜收。 午餐后乘坐渡轮跨越海峡，到德文波特小镇参观（Devonport Ferry Trip），走在海岸边维多利亚时期古老的英国街道上，欣赏100多年前的建筑，爬上古代的军事要塞，在100多年前的战壕和炮台之间穿行，研究一下当时很先进的巨大岸防炮。</view>
+                 <view class="red fw">新西兰皇家海军博物馆</view>
+                <view class="ti">位于山脚下的新西兰海军博物馆,来到这里就能了解到新西兰皇家海军的发展与作战史，可以见到各式各样的海军装备和武器，是军事迷的必来之处。</view>
+          </view> 
+
+
+ 
+
+       
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：已含；午餐：自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>   
+ 
+ 
+
+      </view>
+     
+       <view  wx:if="{{show[10]}}" id="11">
+          <view class="fw red">第11天 课程学习-奥克兰动物园-天鹅湖</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">课程学习—奥克兰动物园—天鹅湖</view>
+          </view>
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">奥克兰国际学校课程学习</view>
+                <view class="ti">和世界各地同学一起同窗共读</view> 
+          </view> 
+          <view>
+                <image src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1956789927,533607890&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">奥克兰动物园</view>
+                <view class="ti">奥克兰动物园(AucklandZoologicalGardens)位于阿尔伯特公园西面，新西兰最大的公园，有白犀牛、环尾狐猴等珍稀动物。园内还驯养着大象、长颈鹿、及狮子等常见动物以新西兰国鸟KIWI着名。这种鸟的特点是长着翅膀却无法飞行。在其中一角还有一片特辟的日本庭院。 新西兰大型的动物园—奥克兰动物园，亲眼目睹新西兰的国宝—几维鸟的真面目，与南半球特有的动物玩耍</view>
+                <view class="red fw">西泉公园</view>
+                <view class="ti">西泉公园位于奥克兰，公园更像一座中国式的公园。公园各种鸭、鹅、鸟、鸡，这些动物都不怎么怕人，可以与它们合影留念。 然后游览天鹅湖（Auckland Zoo &Western Springs），近距离亲密接触黑天鹅，在绿草如茵的湖边欣赏人与环境的融合。</view>
+                           
+          </view> 
+
+
+       
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：已含；午餐：自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>   
+ 
+ 
+ 
+
+      </view>
+
+        <view  wx:if="{{show[11]}}" id="12">
+          <view class="fw red">第12天 课程学习-毕业典礼-毕业午宴-天文馆-IMAX电影-独树山</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">课程学习-毕业典礼-毕业午宴-天文馆-IMAX电影-独树山</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">奥克兰国际学校课程学习，毕业典礼</view>
+                <view class="ti">和世界各地同学一起学习，享受最后一次课程，与各国同学告别留念，参加学校的毕业典礼，颁发毕业证书。 随后和家长一起前往饭店，参加毕业午宴（自助餐，已包含）</view> 
+          </view> 
+
+          <view>
+                <image src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1770456599,848064936&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">奥克兰天文台</view>
+                <view class="ti">天文台位于康沃尔公园（CornwallPark）内，1996年耗资300万美元改建，引进德国蔡斯公司制造的放映机，观众可观赏精彩的星座秀。馆内设有商店，贩售星座领带等纪念品建议及早预约。 参观天文博物馆，看看人类探索宇宙的历程，欣赏IMAX科学探索电影</view>
+                <view class="red fw">独树山</view>
+                <view class="ti">独树山是新西兰最大的要塞，驾车或步行至山顶（182米）可以饱览360度的无敌景致。顶峰是约翰·罗根·坎佩尔之墓，他在1901年创立了奥克兰市，并要求在此建造一座毛利人的纪念碑（也就是陵墓上引人注目的方尖碑和雕像）。附近就是最后一棵“独树”的树桩。 看看独树山这个奇怪的名字来历，一路到山顶纪念碑登高远望，欣赏奥克兰全景，找寻那个最出名的独树，发现独树山背后的历史故事；途中在绿草如茵的牧场近距离接触可爱的绵羊和野兔。</view>
+
+          </view> 
+
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：已含；午餐：自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>   
+ 
+ 
+ 
+
+      </view>
+       
+         <view  wx:if="{{show[12]}}" id="13">
+          <view class="fw red">第13天 全天休闲逛街-购买礼物纪念品</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">全天休闲逛街-购买礼物纪念品</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">全天</text></view>
+                <view class="red fw">奥克兰市中心</view>
+                <view class="ti">早餐后前往市中心，休闲逛街，购买手信纪念品。</view> 
+          </view> 
+
+          <view>
+                <image src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2330811595,3677448952&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+           <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：已含；午餐：自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>   
+
+      </view>
+     
+
+       <view  wx:if="{{show[13]}}" id="14">
+          <view class="fw red">第14天 奥克兰-全天与寄宿家庭欢聚</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">全天与寄宿家庭欢聚</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">全天</text></view>
+                <view class="red fw">寄宿家庭</view>
+                <view class="ti">与寄宿家庭家人一起共享周末</view> 
+          </view> 
+
+          <view>
+                <image src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3673080468,3507363068&fm=200&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：已含；午餐：已含；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>   
+ 
+
+      </view>
+    
+
+       <view  wx:if="{{show[14]}}" id="15">
+          <view class="fw red">第15天 与寄宿家庭挥泪告别-机场免税店-返回温馨的家</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">全体前往学校集合-DFS免税店（奥克兰机场店）</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">全体前往学校集合</view>
+                <view class="ti">寄宿家庭家长送同学们前往学校集合，与朝夕相处十几天的父母挥泪告别，前往奥克兰国际机场。</view> 
+                  <view class="red fw">DFS免税店（奥克兰机场店）</view>
+                <view class="ti">抵达机场，在机场免税店花掉最后一个纽币，把行李装的满满的，登机返回家园</view> 
+          </view> 
+
+          <view>
+                <image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3965886022,611624942&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+         <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：已含；午餐：敬请自理；晚餐：敬请自理</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">返回温暖的家</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">航班:</view>
+                <view>飞机返回祖国</view>
+          </view>   
+ 
+ 
+
+      </view>
+
+
+</view>
+

@@ -1,0 +1,72 @@
+<!-- 菜单栏 -->
+<view class="swiper-tab">  
+    <view class="swiper-tab-list {{currentTab==0 ? 'on' : ''}}" data-current="0" bindtap="swichNav">公司简介</view>  
+    <view class="swiper-tab-list {{currentTab==1 ? 'on' : ''}}" data-current="1" bindtap="swichNav">团队展示</view>  
+    <view class="swiper-tab-list {{currentTab==2 ? 'on' : ''}}" data-current="2" bindtap="swichNav">志同道合</view>  
+    <view class="swiper-tab-list {{currentTab==3 ? 'on' : ''}}" data-current="3" bindtap="swichNav">联系我们</view> 
+</view>  
+  
+<swiper current="{{currentTab}}" class="swiper-box" duration="300" style="height:{{winHeight - 31}}px" bindchange="bindChange">  
+    <!-- 公司简介 -->  
+    <swiper-item> 
+     
+      <view><image src="../../../images/logo.png" class="logo"/><text>广州碧雪教育科技有限公司</text>是由广东金融学院的博士、教授共同创建。是广东金融学院大学生创业实践基地项目，聚合了高水平的教育及执行团队。专注于提供高品质的教育咨询及海外游学，夏令营和冬令营。 目前公司在国内首创泰国清迈英语夏令营及冬令营，日本夏令营及冬令营，新西兰游学微留学、美国圣地亚哥游学微留学以及英国剑桥牛津双学汇夏令营。五条游学线路全部是国际合作交换生项目，费用低廉，超高性价比让海外游学不在成为贵族的专利。 领队老师经验丰富，寄宿家庭热情友好，行程安排设计合理，丰富多彩的活动，独具一格的文化交流，有口皆碑的英语学习效果，受到家长和同学的一致好评。目前国际游学已经是第15届了，2018年寒假5条国际游学线路正在火热召集中，欢迎家长同学咨询报名。<view class="hot"><text>报名热线：400-068-2728</text></view></view>  
+        <!-- <view class="bg">
+    <image src="http://www.qmcamp.com/images/logo.jpg" style="width: 110%;margin-left:-90rpx;margin-top:-60rpx;"/>
+  </view> -->
+    </swiper-item>  
+    <!-- 团队展示 -->  
+    <swiper-item>  
+      <view style="line-height:50rpx"><image src="../../../images/logo.png" class="logo"/><text>广州碧雪教育科技有限公司</text>成立于广州市天河区龙洞，由长期在大学从事教育培训工作的博士和教授创立，专注为大众提供海外游学、远程视频英语教学及个性化定制游及自由行服务。
+旗下清迈英语夏令营网站及清迈论坛是国内唯一专注介绍清迈游学资讯及清迈旅游资讯的网。
+目前公司以"服务式营销"为核心理念，动态关注客户的需求，并结合我们的团队最擅长的项目，通过项目团队与英语教育，心理学及其他行业专家成员的共同探讨，制定开发了清迈英语夏令营和冬令营游学服务，使海外游学项目不再成为昂贵，遥不可及的事情，真正为普通工薪阶层的孩子提供海外游学体验。
+他行业专家成员的共同探讨，制定开发了清迈英语夏令营和冬令营游学服务，使海外游学项目不再成为昂贵，遥不可及的事情，真正为普通工薪阶层的孩子提供海外游学体验
+另外公司还策划了新西兰奥克兰英语夏令营，游学价格也贴近普通家庭。同时在行程安排和学习英语过程中处处体现与众不同的教育理念和特色，发明了一些“另类”教学方法，得到家长同学的一致好评。今后，团队将再接再厉，不断努力，提供越来越完善的，与时俱进的教育服务。</view>  
+    </swiper-item>  
+    <!-- 志同道合 -->  
+    <swiper-item>  
+      <view class="mt-20">
+              <view><view class="hot"><text>欢迎合作:</text></view>
+本公司诚征全国各地志同道合的学校和教育培训机构合作，一起大展鸿图。同时欢迎各界精英人士加入我们的队伍，发挥聪明才智，共同创业。
+      </view>
+
+
+<view class="mt-20">
+  <view class="hot"><text>联系方式：</text></view>
+  <view><text>电话：400 068 2728</text></view>
+  <view><text>网址：www.chiangmaicamp.com</text></view>
+  <view><text>邮箱：clint@qmcamp.com</text></view>
+  <view><text>地址：广州市天河区龙洞迎福路527号</text></view>
+</view>
+  <view class="bg">
+    <image src="http://img3.imgtn.bdimg.com/it/u=3836608897,1982254302&fm=27&gp=0.jpg"/>
+  </view>
+</view>  
+    </swiper-item>  
+    <!-- 联系我们 --> 
+    <swiper-item>  
+      
+          <view class="hot mt-20"> <image src="../../../images/logo.png" class="logo"/><text>广州碧教育息科技有限公司</text></view>
+          <view><text>地址：广州市天河区龙洞迎福路527号广东金融学院</text></view>
+           <view><text>咨询招生热线电话：13682229688,1331885704</text></view>
+            <view><text>免费咨询电话：400 068 2728（24小时热线）</text></view>
+            <view><text>联系人：袁老师，陈老师</text></view>
+            <view><text>咨询 QQ:10509512，849811887</text></view>
+            <view><text>清迈学英语讨论群1：66659908</text></view>
+            <view><text>清迈学英语讨论群2：153918841</text></view>
+            <view><text>奥克兰学英语讨论群：291173845</text></view>
+            <view><text>新西兰游学QQ群：291173845</text></view>
+            <view><text>美国游学QQ群：313888669</text></view>
+            <view><text>英国游学QQ群：473389998</text></view>
+            <view><text>日本夏令营QQ群： 529367877</text></view>
+            <view><text>邮箱：clint@qmcamp.com</text></view>
+            <view><text>网址：www.chiangmaicamp.com</text></view>
+            <view><text>清迈资讯论坛：www.chiangmaibbs.com</text></view>
+            <view><text>新浪微博：http://weibo.com/chiangmaicamp</text></view>
+            <view><text>淘宝店：http://shop67399326.taobao.com</text></view>
+             <view class="bg"  hidden="true">
+   
+  </view>
+      
+    </swiper-item> 
+</swiper>  

@@ -1,0 +1,507 @@
+<!--pages/swiper/course/england/england.wxml-->
+<view>
+    <image src="http://www.qmcamp.com/image/japan/japan2.jpg" style="width: 100%"></image>
+</view>
+
+
+<view class="fw red">日本漫画の文化夏令营(亲子)8天-大阪京都奈良+深度游</view>
+
+<view class="hot-bg">
+      <view class="price inline fr fw">￥9800/人</view>
+      <view class="active fw">优惠活动:<view class="price discount" bindlongpress="show1" bindtouchend="hidden1">优惠券<view class="tip tip1" wx:if="{{show1}}" >1、每人可使用往期发放的优惠券1张。
+2、新报名的同学每人发放2张优惠券，可赠与别人或下次参加其他线路使用。</view></view> <view class="price discount" bindlongpress="show2" bindtouchend="hidden2">早鸟优惠<view class="tip tip2" wx:if="{{show2}}" >1、3月份报名早鸟特别优惠，具体请联系客服老师。 
+2、早鸟优惠与优惠券不可同时使用。</view></view> </view>
+      
+  
+
+</view> 
+
+<view><text class="fw">行程时间：</text>2018年7月8日-7月15日</view>
+
+
+<view class="line"></view>
+<view>
+   <view class="fw"><text class="blue">特色推荐：</text></view>
+   <view>★ 适用人群：8岁以上单独参加，8岁以下家长陪同</view>
+   <view>★ 日本漫画朝圣之旅、剑道、和服传统文化课程</view>
+   <view>★ 传统竞技项目-剑道体验课程，提升孩子德智体美综合能力</view>
+   <view>★ 访学大阪、京都、奈良日本三大古都，远离东京核辐射地区</view>
+   <view>★ 两位专业老师全程陪同</view>
+</view>
+<view class="line"></view>
+
+
+
+<view>
+  <view class="spa">日本简介</view>
+  <view class="fw red">爱恨交织的日本</view>
+  <view class="ti">我听说的日本是岛上的霓虹国，
+那里有着如光环般璀璨的夜色。 
+我看见的日本是霓虹下熙攘如织的人群， 
+笔挺的西装和地下铁中有序的步伐。
+我听说的日本是岛上的霓虹国，
+那里有着如光环般璀璨的夜色。 
+我看见的日本是霓虹下熙攘如织的人群， 
+笔挺的西装和地下铁中有序的步伐。
+</view>
+<view class="ti">日本离我们的距离时近时远，我们对她也是又爱又恨。不论是什么感觉，什么情绪，他都是一直一直的保持着它自身的美好。这里是-日本。一个樱花烂漫的国度，自然之家，体验地鸟语花香中的自然集体生活；走在日本街头，看着熟悉的微笑，享受贴心的服务。没错，这不是梦，跟随我们的脚步，让你全方位感受一个真实的日本。</view>
+  <view><image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3365604573,2232367707&fm=27&gp=0.jpg" class="picture"/></view>
+</view>
+
+<view class="line"></view>
+<view>
+  <view class="spa">夏令营特色</view>
+  <view class="fw red">日本夏令营简介</view>
+  <view class="ti">古人云“读万卷书不如行万里路”，只是简单的参观游览并不意味着来过。让我们浸润在日本的传统文化里，感受日本文化的熏陶。 日本是个现代化程度非常高的国家，体现在细节上的方方面面，我们的漫游就是为了让孩子去感受，值得体验的新奇。 我们这次夏令营去的都是人气很旺的地方，但是没有混乱，没有人大声喧哗，大家都安静地排队，孩子们在玩的过程中，一定会感受到日本的文化教育，这种影响力是直接而有力的。 拿起相机和画笔，走遍日本最美的地方，把美景和动漫统统搬进画里，光想一想都是件激动的事情！那么，2018的寒假，别迟疑！让我们把梦想变成现实！</view>
+  <view>
+        <image src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1694217904,651423326&fm=27&gp=0.jpg" class="picture"/>
+  </view>
+  <view class="fw red">行程亮点：</view>
+  <view>
+    <view>【【访学日本三大古都】大阪、京都、奈良。行程安排既包括了大型主题乐园，又包括探访日本有厚重历史感的古迹寺庙；即学习日本高科技知识，又有日本漫画及传统文化学习。</view>
+    <view>【传统日本文化课程】在京都学习期间有英语流利的日本老师教学剑道和和服体验课程。</view>
+    <view>【漫画朝圣，高科技之旅】参观漫画迷最爱的天堂—国际京都漫画博物馆，访问大阪垃圾处理工厂，培养环保意识，体验高科技环保魅力。</view>
+    <view>【沉浸式行程安排】全程乘坐本地地铁或者公交车，同学们得以深度体验日本文化，让大家亲身感受日本人日常生活的方方面面。</view>
+    <view>【安全保障】全程活动安排以安全第一为前提展开，在活动内容、场地、景点、交通工具等各方面反复论证调查，排除任何可能存在的安全隐患，家长高枕无忧。</view>
+    <view>【超高性价比】拒绝暴利，优化行程设计，比其他机构低30%以上。花最少的钱，收获最多的知识。</view>
+  </view>
+
+  <view class="line"></view>
+  <view class="fw blue" style="text-align:center">====访学收获====</view>
+  <view class="ti">让我们感受最为深刻的是日本特有的社会氛围，城市中强烈的秩序感、公共设施的科技化与人性化，当然，值得一提的还有日本人含蓄的热情。从我们一下飞机，强烈的秩序感扑面而来，连托运的行李箱都被整齐排列。任何人多地方都会自觉排队；在城市道路上的汽车基本都缓慢行驶，礼让行人；厕所几乎都是全自动冲洗坐便器，均备有两卷以上纸，还有解除如厕尴尬的流水音乐...不禁感叹这真是个神奇的国度，太多让人惊奇、暖心的细节，让我一一道来。</view>
+  <view class="fw red">★ 访学经历增加了申请国外一流大学的竞争力</view>
+  <view class="fw red">★ 访学经历增加就业竞争力</view>
+  <view class="fw red">★ 亲自观察异国的风景、亲身体验他国的文化</view>
+  <view class="fw red">★ 访学是自我历练的过程</view>
+  <view class="fw red">★ 访学是提高自我认知、自我发现的过程</view>
+
+  <view>
+        <image src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2850921189,113743142&fm=200&gp=0.jpg" class="picture"/>
+  </view>
+
+  <view class="line"></view>
+  <view class="spa">费用说明</view>
+  <view class="red fw">行程费用</view>
+  <view>
+      <view class="fw">9800元/每人，家长与孩子同价，报名时全额缴纳营费。</view>
+      <view>【费用包括】住宿、交通、早餐午餐、参观游览，运动休闲、文化课程。
+【费用不包括】：往返机票、签证，国内交通，每天晚餐，发票税费。
+【代办签证价格】：600元/每人
+【特别提示】：所有费用为不含税费用，如需开发票请交纳相应税费。</view>
+  </view>
+<view>
+      <view class="fw red">【优惠政策】：</view>
+      <view>1、5人同时报名，每人优惠300元。</view>
+      <view>2、 每人可以使用往届发放的优惠券一张。</view>
+      <view>3、报名赠送全程高额境外旅游保险一份</view>
+</view> 
+
+<view class="line"></view>
+
+
+
+  <view clas="line"></view>
+  <view class="spa" style="border-bottom: 2rpx solid #777">行程介绍</view>
+  <view class="swiper-tab"> 
+    <view style="border-bottom: 2rpx solid #777;box-sizing: border-box">
+      <view class="swiper-tab-list {{currentTab==0 ? 'on' : ''}}" data-current="0" bindtap="swichNav">第一天</view>  
+      <view class="swiper-tab-list {{currentTab==1 ? 'on' : ''}}" data-current="1" bindtap="swichNav">第二天</view>  
+      <view class="swiper-tab-list {{currentTab==2 ? 'on' : ''}}" data-current="2" bindtap="swichNav">第三天</view>  
+      <view class="swiper-tab-list {{currentTab==3 ? 'on' : ''}}" data-current="3" bindtap="swichNav">第四天</view> 
+      
+    </view>
+    <view style="border-bottom: 2rpx solid #777;box-sizing: border-box">
+     <view class="swiper-tab-list {{currentTab==4 ? 'on' : ''}}" data-current="4" bindtap="swichNav">第五天</view>
+      <view class="swiper-tab-list {{currentTab==5 ? 'on' : ''}}" data-current="5" bindtap="swichNav">第六天</view>  
+      <view class="swiper-tab-list {{currentTab==6 ? 'on' : ''}}" data-current="6" bindtap="swichNav">第七天</view>  
+      <view class="swiper-tab-list {{currentTab==7 ? 'on' : ''}}" data-current="7" bindtap="swichNav">第八天</view>  
+   
+      </view>
+
+</view>  
+
+
+      <view wx:if="{{show[0]}}" data-id="1">
+        
+          <view class="fw red">第1天 全国各地出发-抵达大阪机场</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view><text class="fw">航班：</text>全国各地飞大阪</view>
+                <view>乘坐国际航班前往日本西部最大城市--大阪。开启本次日本修学之旅。
+（往返飞机票自理，请选择下午5点前抵达关西国际机场的航班）</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="fw">餐饮</text></view>
+                <view>晚餐：自理 老师带队前往推荐用餐地点自行用餐</view>
+                <view>举行开营仪式，认识彼此，宣讲安全事项，为熟悉环境，为接下来几天的行程做好充足准备。</view>
+          </view> 
+
+          <view>
+                <image src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2530058533,2398676469&fm=200&gp=0.jpg" class="picture"/>
+          </view> 
+
+          <view>  
+                <view><text class="blue">入住酒店：</text></view>
+                <view class="fw">全程入住大阪市中心心斋桥附近三星级酒店。</view>
+          </view>   
+          <view>
+                <view><text class="blue">特别提示：</text></view>
+                <view>1、家长陪同孩子参加日本夏令营的可以自行直接从所在地飞往大阪机场（机票签证自行解决），老师指定时间段内接机（13:00pm-18:00pm)。 </view>
+                <view>2、8岁以上单独参加的同学，必须前往广州集合，领队老师统一带领出发前往机场，飞往大阪（机票签证保险统一购买，指定航班，可以免费代购，具体请咨询客服老师）。 </view>
+
+                <view>PS：强烈建议8岁以上孩子单独参加夏令营，对孩子的锻炼和收获是家长陪同不能比拟的。日本夏令营期间有2名经验丰富的领队老师悉心照顾同学们的生活学习，安全保证。 </view>                             
+          </view>
+        
+
+      </view>
+
+
+       <view wx:if="{{show[1]}}" data-id="2">
+        
+          <view class="fw red">第2天 全天大阪环球影城游览</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">全天环球影城参观游览，从早到晚欢乐High不停</view>
+                <view class="ti fw">友情提示：</view>
+                <view>1、因环游影城人流量大，排队时间长，所以同学们要尽早出发，先到先得。</view>
+                <view>2、全天游览非常辛苦，同学们要学会边玩边休息，合理掌握节奏。 </view>
+                <view>3、可以购买园区免排队快速票（比较贵），免去排队之苦。</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">大阪环球影城</view>
+                <view class="ti">日本环球影城简称为USJ，是和东京迪斯尼 齐名的主题游乐园，拥有众多的体验项目和主题表演。除了原汁原味还原好莱坞大片的惊险项目，还有针对亚洲游客开设的日本动漫专区，史努比犬、Hello Kitty形象也随处可见。2014年夏天开始对外开放的哈利波特园区目前是园中最为热门的项目之一。
+“哈利波特主题公园” 除了重现《哈利·波特》中外观庄严的霍格沃茨城堡，“邓布利多校长室”，“黑魔法防御术教室”，“格兰芬多休息室”和“有求必应屋”等房间也被一一复制重现。</view> 
+          </view> 
+
+          <view>
+                <image src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=512733681,1903909770&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">继续大阪环球影城游玩</view>
+                <view class="ti">日本环球影城是一座电影主题游乐场，设有多种精彩的游乐设施。分哈利波特魔法世界、纽约区、好莱坞区、旧金山区、侏罗纪公园、史奴比摄影室、环礁湖、水世界、亲善村、欧兹乐园等主题。</view>    
+          </view> 
+
+          <view>
+                <view><text class="blue">晚上</text></view>
+                <view class="red fw">晚上继续环球影城行程，越夜越精彩。</view>
+                <view class="ti">晚上八点半进行的魔幻星光大游行，更是将一天的精彩推向了高潮。 那些大明星们悉数登场，在灯光的装点下格外漂亮，再伴随着欢快的音乐，让你忍不住跟着起舞。 在欢乐中，结束这Happy的一天。</view>    
+          </view> 
+
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view>早餐包含，午餐包含，晚餐自理</view>
+                <view>早餐为酒店早餐，午餐每位同学发放1000日元就餐卡，随心所欲购买喜欢的食物，晚餐老师带领用餐，选择自己喜欢的口味，费用自理。</view>       
+          </view>
+
+          <view>
+                <view><text class="blue">住宿安排</text></view>
+                <view>三星级酒店</view>  
+                <view>位于大阪心斋桥附近酒店，交通便利，生活设施丰富。</view>       
+          </view> 
+
+            <view>
+                  <view><text class="blue">交通安排</text></view>
+                  <view>公共交通</view>
+                  <view>老师带领同学们乘坐地铁往返环球影城，快速不堵车。</view>
+            </view>   
+ 
+
+      </view>
+
+
+       <view  wx:if="{{show[2]}}" id="3">
+        
+          <view class="fw red">第3天 游览大阪城-参观大阪垃圾分类处理厂</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">上午参观游览大阪城，天守阁，下午访学大阪舞洲垃圾处理厂</view>
+                 <view class="ti fw">温馨提示：</view>
+                <view>1、去大阪城参观前，老师会讲解丰臣秀吉的历史知识，让同学们更好的了解大阪城的来历。 </view>
+                <view>2、舞洲垃圾处理厂没有任何异味和污染，坐落在风景如画的大阪湾旁边。 </view>          
+          </view>
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">游览大阪城公园，天守阁</view>
+                <view class="ti">大阪城系丰臣秀吉将军于1586年所建，有护城河和长12公里雄伟的石砌城墙。
+大阪城公园规模宏大。除了有地标建筑大阪城天守阁 ，还有植满樱花的西之丸庭园。 这里植被茂盛，拥有成片的樱花、梅林，春秋两季会举办花卉市集，经常举办音乐会和各种演出活动。公园附近还有大阪历史博物馆、大阪府警察本部，都是值得一游的场所。
+仰望巍峨的天守阁，听老师娓娓讲述日本的历史文化传奇，感受心中那一份宁静。</view>
+          </view> 
+          <view>
+                <image src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3415910009,622056137&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">访学日本大阪舞洲垃圾处理厂</view>
+                <view class="ti">位于日本大阪湾旁，是一座五彩斑斓的童话城堡般的建筑，更是一个非常重视外观设计的垃圾处理设施。通过工厂内直观、轻松而有趣的展示和互动游戏，让孩子亲身体验垃圾处理的流程，学会垃圾分类处理等环保知识，了解人与环境相处之道。让他们认识到自己无限的可能和空间，并满怀信心的去迎接每一次成长的挑战。PS：听说日本的小学生每当4年级的时候，要到当地的垃圾处理厂，去学习从自己家里出来的垃圾怎样处理。</view>                  
+          </view> 
+
+
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view>早餐包含，午餐包含，晚餐自理</view>
+                <view>早餐为酒店早餐，午餐为日式午餐，晚餐老师带领用餐，选择自己喜欢的口味，费用自理。</view>
+          
+          </view>
+
+          <view>
+                <view><text class="blue">住宿安排</text></view>
+                <view>三星级酒店</view>  
+                <view>位于大阪心斋桥附近酒店，交通便利，生活设施丰富。</view>           
+          
+          </view> 
+
+            <view>
+                  <view><text class="blue">交通安排</text></view>
+                  <view>公共交通</view>
+                  <view>老师带领同学们乘坐地铁，公交车，快速不堵车，深刻体验本地生活，看看日本人乘坐公共交通的礼仪。</view>
+            </view>   
+ 
+
+      </view>
+
+
+      <view  wx:if="{{show[3]}}" id="4">
+          <view class="fw red">第4天 游览心斋桥-道顿崛-下午前往京都</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">上午游览大阪著名的商业街：心斋桥，著名的小吃街：道顿崛，下午离开大阪，前往京都。</view>
+                <view class="fw">温馨提示：</view>
+                <view>早餐后就要退房，寄存行李，逛街午餐后回酒店直接那行李前往京都。</view>
+          </view>
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">心斋桥，道顿崛</view>
+                <view class="ti">心斋桥是大阪最著名的一条商店街，云集了大型百货、价格亲民的连锁药妆店、老品牌店和小铺。各种档次和风格的商品应有尽有，Hello kitty和Disney的专卖店也在这里落户。心斋桥的大多店面都配有中文导购，支持银联卡付款，可以轻松享受轻松购物的乐趣。这里还是MM们喜欢的药妆店的聚集地，化妆品护肤品可以随意淘。
+道顿堀美食街位于日本大阪心斋桥附近，是大阪美食的代表地点。在这里各种美食的招牌每天都招来川流不息的人潮，最有名的大螃蟹招牌更是道顿崛美食街的标志，尤其是当夜晚来临，闪烁的霓虹灯更是诱人。许多著名的小吃像金龙拉面、章鱼烧、金枪鱼、鲜海胆、大生蚝、烤鳗鱼、回转寿司、河豚肉等在这都可以吃到。
+PS:忍不住要感叹一下：道顿堀的中国游客真多啊，已经到了所有商店都配备中国人员工，满条街都是汉语吆喝，甚至支持支付宝微信付款的程度了。所以全程中文无障碍，同学们可以完全无沟通压力。</view> 
+          </view> 
+          <view>
+                <image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1373310661,2402323549&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">前往千年古都——京都</view>
+                <view class="ti">京都府，位于日本本州岛的中部，一直被视为是日本文化与大和之魂真正的所在。古都京都是根据历来王朝文化中盛行的日本式唯美意识所构建的。以神社、佛阁等历史建筑物、庭院、绘画、传统活动、京都料理为代表，被称为"千年古都"。 京都具有浓郁的日本风情，堪称日本人心灵的故乡。它是日本纺织品、陶瓷、漆器等传统工艺品的产地。同时，又是日本花道、茶道的繁盛之地，被称为“真正的日本”。无论走到哪里都能体会到在用自己的虔诚和静谧吐息着悠扬的历史文化，安静、淡泊、充满禅意，给人以心灵上的洗礼。</view>
+          </view> 
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view>早餐包含，午餐包含，晚餐自理</view>
+                <view>早餐为酒店早餐，午餐为日式午餐，晚餐老师带领用餐，选择自己喜欢的口味，费用自理。</view>
+         </view>
+          <view>
+                <view><text class="blue">住宿安排</text></view>
+                <view>三星级酒店</view>
+                <view>位于京都鸭川附近酒店，交通便利，生活设施丰富。</view>              
+          </view> 
+            <view>
+                  <view><text class="blue">交通安排</text></view>
+                  <view>公共交通</view>
+                  <view>老师带领同学们乘坐地铁，公交车，快速不堵车，深刻体验本地生活，看看日本人乘坐公共交通的礼仪。</view>
+            </view>   
+      </view>
+
+
+      <view  wx:if="{{show[4]}}" id="5">
+          <view class="fw red">第5天 参观京都国际漫画中心-学习日本剑道课程</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">上午参观漫画圣地——京都国际漫画博物馆，下午学习传统日本剑道课程。</view>
+                <view class="fw">温馨提示：</view>
+                <view>剑道课程运动量极大，同学们要带足水和饮料。</view>
+          </view>
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">京都国际漫画博物馆</view>
+                <view class="ti">京都国际漫画博物馆于2006年11月开馆，是精华大学与京都市联合开设的。在旧龙池小学校舍的基础上改造的京都国际漫画博物馆，分为地上3层和地下一层，连地库共四层占地约五千5010平方尺。该博物馆将漫画确认为文化产业的一个领域和体系，以展示和保存为目的，将会大量收集各种漫画作品。这个超巨型漫画图书馆，馆内其它设施还有漫画原画展览馆、动画馆及免费上网查阅漫画资料等服务，最紧要是有许多失传已久的或大师们初出道的作品都可在此看到。
+PS：京都国际漫画博物馆有一个小剧场，我们到的时候一直在说一个西瓜太郎的故事，看了半场，台下的小朋友听得嘎嘎的笑很开心。因为天气下了大雨，我们就在博物馆内待了很久很久，两三个小时都不止，这里面好多漫画书，令人叹为观止！</view> 
+          </view> 
+          <view>
+                <image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=524912151,3264619577&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">传统剑道训练</view>
+                <view class="ti">日本剑道运动需要清晰的思维，较强的肌肉暴发能力，动作迅速，体力充沛。就其战术而言，更是一种较为复杂的强对抗运动，要求习练者能在极短的时间里立即作出敏捷的反应。这不但对人的身体素质提出了相当高的要求，而且对心理和精神也产生了较高的锻炼价值。尽管人的天赋和人生的经历大相径庭，但是选择这种修练的投资，对每一个人都会产生很大的影响，或许它的回报会使人终生受益。
+</view>
+    
+          </view> 
+
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view>早餐包含，午餐包含，晚餐自理</view>
+                <view>早餐为日式早餐，午餐为日式午餐，晚餐老师带领用餐，选择自己喜欢的口味，费用自理。</view>
+          
+          </view>
+
+          <view>
+                <view><text class="blue">住宿安排</text></view>
+                <view>三星级酒店</view>   
+                <view>位于京都鸭川附近酒店，交通便利，生活设施丰富。</view>   
+          </view> 
+
+            <view>
+                  <view><text class="blue">交通安排</text></view>
+                  <view>公共交通</view>
+                  <view>老师带领同学们乘坐地铁，公交车，快速不堵车，深刻体验本地生活，看看日本人乘坐公共交通的礼仪。</view>
+            </view>   
+ 
+
+      </view>
+
+
+      <view  wx:if="{{show[5]}}" id="6">
+          <view class="fw red">第6天 游览千年古寺清水寺-和服礼仪体验课程</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">上午前往著名的清水寺参观游览，然后进行和服体验课程，学习日本传统文化精髓</view>
+                <view class="fw">温馨提示：</view>
+                <view>穿着和服之前，老师会为每位同学化妆做头发。打扮的漂漂亮亮。</view>
+          </view>
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">清水寺</view>
+                <view class="ti">清水寺 清水寺，是京都最古老的寺院，也是著名的赏枫及赏樱景点，与金阁寺、二条城并列为京都三大名胜。本堂内供奉的十一面千手观音像还能够保佑财运。所以一年四季前来朝拜的香客或来访的观光客是络驿不绝。
+清水寺最大的看点是悬空的清水舞台，可以眺望京都的街道。清水寺的建筑有点酷似中国大唐时期的建筑风格。清水寺春赏樱花，夏秋赏枫叶。一年四季都是美丽的画面，着实让人流连忘返！</view> 
+          </view> 
+          <view>
+                <image src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=2501869649,2245018366&fm=200&gp=0.jpg" class="picture"/>
+          </view> 
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">独具匠心的和服体验课程</view>
+                <view class="ti">为了让同学们能够充分进入角色，特别安排和服礼仪课，男女款各有不同奥！穿着传统的和服和京都街头来个值得回忆的瞬间吧！
+</view>  
+                <view class="red fw">穿着和服游走古韵京都，漫步二年坂、三年坂，穿越回唐朝。</view>
+                <view class="ti">清水寺外面的二年坂・三年坂是具有京都独特风情的坡道，这两处坡道被列入了日本“重要传统的建造物群保护地区”。 石坂两侧充满古老风韵的日式建筑，有许多和风浓郁的土特产商店可以逛，还不时可以遇见穿着传统服饰的女性迎面走过。 三年坂因为经常有产妇为了去清水寺祈求顺利生产，所以也被人们叫做安产坂。不仅如此，还有另一种传说是“在三年坂摔倒的人三年内就会死去”，虽然只是传说趣谈，但三年坂攀登起来的确有些蜿蜒陡峭，请留意脚下。</view>
+          </view> 
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view>早餐包含，午餐包含，晚餐自理</view>
+                <view>早餐为日式早餐，午餐为日式午餐，晚餐老师带领用餐，选择自己喜欢的口味，费用自理。</view>
+          </view>
+          <view>
+                <view><text class="blue">住宿安排</text></view>
+                <view>三星级酒店</view> 
+                <view>位于京都鸭川附近酒店，交通便利，生活设施丰富。</view>           
+          </view> 
+          <view>
+                  <view><text class="blue">交通安排</text></view>
+                  <view>公共交通</view>
+                  <view>老师带领同学们乘坐地铁，公交车，快速不堵车，深刻体验本地生活，看看日本人乘坐公共交通的礼仪。</view>
+          </view>   
+      </view>
+
+
+      <view  wx:if="{{show[6]}}" id="7">
+          <view class="fw red">  第7天 游览奈良东大寺-鹿公园-参观春日大社</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">上午前往日本历史上第一个首都：奈良，参观东大寺和春日大社。</view>
+                <view class="fw">温馨提示：</view>
+                <view>可以带一些饼干和面包喂食可爱的梅花鹿。</view>
+          </view>
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">奈良东大寺</view>
+                <view class="ti">【奈良】作为日本历史和文化的发祥地之一，不仅森林资源丰富，还拥有着众多的古寺神社和历史文物，享有“社寺之都”的称号。它是日本历史文化遗产的宝库，拥有着平城京遗址、东大寺、春日大社等世界遗产，被日本国民视为“精神故乡”。古朴、神圣、历史悠久，给人以【精神上的荟萃】。
+东大寺位于平城京（今奈良）东，是南都七大寺之一，距今约有一千二百余年的历史。东大寺作为世界上最大的木造佛殿，由圣武天皇为了祀奉大佛（毗卢遮那佛），并作为日本各地的寺院的总寺院而于752年建成的；同时，东大寺也是鉴真和尚于公元７５４年东渡日本后传戒之处，寺内有著名的奈良大佛。来了东大寺，一定要记得点跟蜡烛，许个愿，期待自己的愿望成真。</view>
+                  <view class="red fw">奈良鹿公园</view>
+                  <view class="ti">鹿是奈良的象征，奈良公园位于奈良市街的东边，成群嬉戏于公园里的鹿，大多温顺、讨人喜爱，因与春日大社流传的白鹿传说有关而受到保护。悠闲自在地漫步其中是游览公园的最佳方式，这里还有最集中的鹿群，喂食萌萌的小鹿也是游人最大的观赏点。这里的鹿也极富灵性，见到游人手上有鹿饼会主动走来，所以需要当心成群结队的小鹿来将你扑倒哦。</view>
+          </view> 
+          <view>
+                <image src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1980925954,4140481834&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">奈良春日大社</view>
+                <view class="ti">春日大社是奈良县奈良市奈良公园内的一座神社，旧称为春日神社。建于和铜二年(710年)。作为世界遗产和日本三大神社之一，这里和东大寺完全就是另一种画风，虽然朱红的色调不同于深山藏古寺的清幽，但是与春日山麓的绿色丛林相映成趣的景象，还是将人带入一种心灵深处的秘境。春日大社内有许多各式各样的灯，铺满青苔的石灯笼让人心生平静，年代久远的铜灯甚至已经裹上了一层铜绿，一切都好似宫崎骏动画里的场景。</view>
+          </view> 
+        
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view>早餐包含，午餐包含，晚餐自理</view>
+                <view>早餐为日式早餐，午餐为日式午餐，晚餐老师带领用餐，选择自己喜欢的口味，费用自理。</view> 
+          </view>
+          <view>
+                <view><text class="blue">住宿安排</text></view>
+                <view>三星级酒店</view>
+                 <view>位于京都鸭川附近酒店，交通便利，生活设施丰富。</view>
+          </view> 
+            <view>
+                  <view><text class="blue">交通安排</text></view>
+                  <view>公共交通</view>
+                  <view>老师带领同学们乘坐地铁，公交车，快速不堵车，深刻体验本地生活，看看日本人乘坐公共交通的礼仪。</view>
+            </view>   
+      </view>
+
+
+      <view  wx:if="{{show[7]}}" id="8">
+        
+          <view class="fw red">  第8天 京都——大阪机场免税店-返程温馨的家</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">早餐后退房，京都坐车抵达大阪机场，逛免税店，花掉最后一个日元，返回祖国，与亲人团聚。</view>
+                <view class="fw">温馨提示：</view>
+                <view>大阪机场免税店有很多值得购买的纪念品，大家要准备好包包。</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">大阪机场免税店</view>
+                <view class="ti">前往大阪机场，逛免税店，花掉最后一个日元，把行李装的满满的，返回温馨的家。</view> 
+          </view> 
+
+          <view>
+                <image src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3531130760,3575977709&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">国际航班:</view>
+                <view class="ti">飞机返回祖国各地</view>
+
+        
+          </view> 
+
+
+      
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view>早餐包含，午餐自理，晚餐自理</view>
+          
+          </view>
+
+  
+
+            <view>
+                  <view><text class="blue">交通安排</text></view>
+                  <view>公共交通</view>
+                  <view>老师带领同学们乘坐地铁抵达大阪机场。</view>
+            </view>   
+ 
+
+      </view>
+
+
+
+</view>
+

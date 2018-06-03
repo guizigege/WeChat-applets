@@ -1,0 +1,49 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/consult/consult",
+    "pages/index/join/join",
+    "pages/index/about/about",
+    "pages/index/course/qm/qm",
+    "pages/index/course/england/england",
+    "pages/index/course/japan/japan",
+    "pages/index/course/usa/usa",
+    "pages/index/course/auckland/auckland",
+    "pages/index/video/video",
+    "pages/index/message/message",
+    "pages/map/map",
+    "pages/call/call",
+    "pages/index/message/article/article",
+    "pages/index/show/show",
+    "pages/index/picture/picture",
+    "pages/index/course/ao/ao"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#36A5DA",
+    "navigationBarTitleText": "碧雪教育|国际游学",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "list": [
+      {
+        "text": "首页",
+        "iconPath": "images/tabBarImg/index.png",
+        "selectedIconPath": "images/tabBarImg/index_active.png",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "text": "地图",
+        "iconPath": "images/tabBarImg/xy.png",
+        "selectedIconPath": "images/tabBarImg/xy_active.png",
+        "pagePath": "pages/map/map"
+      },
+      {
+        "text": "联系",
+        "iconPath": "images/tabBarImg/call.png",
+        "selectedIconPath": "images/tabBarImg/call_active.png",
+        "pagePath": "pages/call/call"
+      }
+    ]
+  }
+}

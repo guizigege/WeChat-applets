@@ -1,0 +1,14 @@
+
+<view class="title">夏令营视频</view>
+<view class="camp-video">
+   <view class="bar-title">      
+   </view>
+   <view class="section tc">
+   <view class="video" wx:for="{{videoData}}" wx:key="{{item.id}}">
+    <view class="video-inside">
+     <view class="video-title"><image class="icon" src="../../../images/tabBarImg/videoBq.png"/>{{item.dec}}</view>
+     <video src="{{item.videoSrc}}" poster="{{item.videoPoster}}" controls show-fullscreen-btn direction="90"  style="width:100%" bindplay="startPlay" data-id="{{item.dataId}}" id="{{item.videoId}}"></video>
+     </view>
+   </view>
+   </view>
+</view>

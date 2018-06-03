@@ -1,0 +1,33 @@
+<view class="article">
+  <view class="title">2018寒假第2届日本冬令营火热报名中</view>
+  <view class="time">发表于：2017-09-13</view>
+
+  <view class="content">
+    <view><text>出发时间：</text>2018年1月21日-1月28日</view>
+    <view><text>时间：</text>8天7晚</view>
+    <view><text>费用：</text>9800元/每，家长与孩子同价，报名时全额缴纳营费。费用包括：住宿、交通、早餐午餐、参观游览，运动休闲、文化课程。 费用不包括：往返机票、签证，国内交通，每天晚餐。 </view>
+    <view><text>代办签证价格：</text>600元/每人</view>
+    <view><text>特别提示：</text>所有费用为不含税费用，如需开发票请交纳相应税费。  </view>
+    <view><text>优惠政策：</text>1、5人同时报名，每人优惠300元。2、每人可以使用往届发放的优惠券一张。3、报名赠送全程高额境外旅游保险一份。</view>
+    <view><text>行程亮点：</text>
+      <view><text>【访学日本三大古都】</text>大阪、京都、奈良。行程安排既包括了大型主题乐园，又包括探访日本有厚重历史感的古迹寺庙；即学习日本高科技知识，又有日本漫画及传统文化学习。</view>
+      <view><text>【传统日本文化课程】</text>在京都学习期间有英语流利的日本老师教学剑道和和服体验课程。</view>
+      <view><text>【漫画朝圣，高科技之旅】</text>参观漫画迷最爱的天堂—国际京都漫画博物馆，访问大阪垃圾处理工厂，培养环保意识，体验高科技环保魅力。</view>
+      <view><text>【沉浸式行程安排】</text>全程乘坐本地地铁或者公交车，同学们得以深度体验日本文化，让大家亲身感受日本人日常生活的方方面面。</view>
+      <view><text>【安全保障】</text>全程活动安排以安全第一为前提展开，在活动内容、场地、景点、交通工具等各方面反复论证调查，排除任何可能存在的安全隐患，家长高枕无忧。</view>
+      <view><text>【超高性价比】</text>拒绝暴利，优化行程设计，比其他机构低30%以上。花最少的钱，收获最多的知识。</view>
+    </view>
+    <view><text>特色推荐:</text></view>
+    <view><text>★</text>适用人群：8岁以上单独参加，8岁以下家长陪同</view>
+    <view><text>★</text>日本漫画朝圣之旅、剑道、和服传统文化课程</view>
+    <view><text>★</text>传统竞技项目-剑道体验课程，提升孩子德智体美综合能力</view>
+    <view><text>★</text>访学大阪、京都、奈良日本三大古都，远离东京核辐射地区</view>
+    <view><text>★</text>两位专业老师全程陪同</view>
+  </view>
+</view>
+
+
+<view class="pic">
+  <view class="pic-title">具体行程：</view>
+  <image src="http://www.qmcamp.com/UploadFiles/2017102310816175.jpg" bindtap="previewImage" />
+</view>

@@ -1,0 +1,103 @@
+/* pages/swiper/course/england/england.wxss */
+page{
+  font-size: 30rpx;
+}
+page view,page text{
+  line-height: 60rpx;
+} 
+.inline{
+  display: inline-block;
+}
+.fr{
+  float: right;
+}
+.fw{
+  font-weight: 700;
+}
+.fz{
+  font-size: 40rpx;
+}
+.ti{
+  text-indent: 64rpx;
+}
+.blue{
+  color: #fff;
+  background-color: #36A5DA;
+  text-shadow:0 0 1px currentColor,-1px -1px 1px #030,0 -1px 1px #030,1px -1px 1px #030,1px 0 1px #030,1px 1px 1px #030,0 1px 1px #030,-1px 1px 1px #030,-1px 0 1px #030;
+}
+
+
+
+
+
+.swiper{
+  height: 400rpx;
+}
+.hot-bg{
+  width: 100%;
+  height: 120rpx;
+  background-color: palegoldenrod;
+  padding-top: 60rpx;
+}
+.price,.red{
+  color: #B22222;
+}
+
+.discount{
+  position: relative;
+  display: inline-block;
+  margin-left: 30rpx;
+}
+.line{
+  width: 100%;
+  height: 30rpx;
+  background-color: #eee;
+  box-shadow: 0rpx 2rpx 10rpx #555 inset;
+
+}
+
+.tip{
+  width: 200rpx;
+  position: absolute;
+  border: 2rpx solid #B22222; 
+  background-color: #fff;
+}
+.tip1{
+  top: -420rpx;
+  left: -24rpx;
+}
+.tip2{
+  top: -340rpx;
+  left: -24rpx;
+}
+.spa{
+  color: #fff;
+  background-color: #B22222;
+  text-shadow:0 0 1px currentColor,-1px -1px 1px #030,0 -1px 1px #030,1px -1px 1px #030,1px 0 1px #030,1px 1px 1px #030,0 1px 1px #030,-1px 1px 1px #030,-1px 0 1px #030;
+}
+.picture{
+  width: 100%;
+  
+}
+
+.swiper-tab{  
+    width: 100%;  
+    border-bottom: 3rpx solid #777777; 
+     box-sizing: border-box; 
+    text-align: center;  
+    line-height: 80rpx;
+  }  
+.swiper-tab-list{  
+    font-size: 30rpx;  
+    display: inline-block;  
+    width: 20%;  
+    height: 80rpx;
+    color: #777777;  
+}  
+.on{ 
+    box-sizing: border-box;
+    color: #B22222;  
+    border-bottom: 5rpx solid #B22222;
+    box-shadow: 4rpx 3rpx 4rpx #444 inset;
+    background-color: #eee;
+}  

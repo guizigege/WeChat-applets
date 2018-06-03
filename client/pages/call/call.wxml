@@ -1,0 +1,33 @@
+<!-- 头部标题 -->
+<view class="title">
+  <view class="wrap">
+    <view class="title-1">碧雪教育|国际游学</view>
+    <view class="title-2">GREENSNOW INTERNATIONAL STUDY CAMP</view>
+  </view>
+  <view class="wx">
+  <image src="http://www.qmcamp.com/images/companylogo.png" bindtap="previewImage"/>
+  </view>
+</view>
+
+<!-- 底部背景 -->
+<view class="bg">
+  <image class="bgImage" src="../../images/call-bg.jpg"/> 
+
+  <view class="wrap2">
+    <view class="contact">
+      <view>联系人：袁老师</view>
+      <view>联系电话：020-37215191 </view>
+      <view>手机号码：13682229688</view>
+      <view>网址：www.qmcamp.com</view>
+      <view>邮箱：clint@qmcamp.com</view>
+      <view>地址：广州市天河区龙洞迎福路527号广东金融学院</view>
+      <view class="callBox">
+          <image class="call" src="http://www.qmcamp.com/images/webwxgetmsgimg1.jpg" bindtap="previewImage2"></image>
+      </view>
+    </view> 
+    <button hover-class="other-button-hover" bindtap="call">拨打</button>
+  </view>
+
+</view>
+
+<button open-type="contact" class="help" >在线客服</button>

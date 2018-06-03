@@ -1,0 +1,226 @@
+/* pages/swiper/swiper.wxss */
+.clearfix:after {
+  content: ".";
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+/* 轮播图组件 */
+.swiper{
+  height: 460rpx;
+}
+/* 菜单标题 */
+.bar-title{
+  width: 100%;
+  height: 60rpx;
+  line-height: 60rpx;
+  border-left: 5px solid #1ca265;
+  border-bottom: 2px solid #fff;
+  box-shadow: 1px 2px 1px #ddd;
+  box-sizing: border-box;
+  background-color: rgba(220,225,237,0.4);
+  font-size: 14px;
+  padding-left: 20rpx;
+  color: #333;
+  margin-top: 2rpx;
+}
+/* 导航内容 */
+.nav-content{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 16rpx 40rpx 10rpx;
+}
+.nav-content-item{
+ justify-content: center;
+}
+.nav-img{
+  display: block;
+  width: 120rpx;
+  height: 120rpx;
+  line-height: 120rpx; 
+  border-radius: 60rpx;
+  text-align: center;
+}
+.nav-text{
+  padding-left: 5rpx;
+}
+.nav-img image{
+  width: 64rpx;
+  height: 64rpx;
+  vertical-align: middle 
+}
+.nav-content-item .nav-text{
+  font-size: 28rpx;
+  font-weight: bolder;
+  text-align: center;
+}
+
+/* 推荐课程内容 */
+.more{
+  display: block;
+  float: right;
+  color: #999;
+}
+.recommend-container{
+  width: 100%;
+  margin-bottom: 20rpx;
+}
+.recommend-container .recommend-content{
+  width: 96%;
+  height: 96%;
+  margin: 2% 2%;
+}
+.recommend-content navigator{
+  display: block;
+  float: left;
+  width: 50%;
+  height: 330rpx;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+}
+.recommend-content navigator{
+  border-top: 2px solid #ddd;
+  border-bottom: 2px solid #ddd;
+}
+.recommend-content navigator:nth-child(2n-1){
+  border-right: 2px solid #ddd;
+}
+.recommend-content navigator:nth-child(2n){
+  border-left: 2px solid #ddd;
+}
+.recommend-content navigator image{
+  display: block;
+  margin: 12rpx auto;
+  width: 90%;
+  height: 236rpx;
+}
+.recommend-content .caption{
+   display: block; 
+  text-align: center;
+  font-size: 28rpx;
+}
+
+/* 游学图片墙 */
+/* 1.照片墙描述 */
+.line{
+  width: 100%;
+  height: 40rpx;
+  margin-top: 40rpx;
+}
+.line .line-left,.line .line-right{
+  width: 30%;
+  height: 6rpx;
+  background-color: #36A5DA;
+}
+.line .line-left{
+  float: left;
+  margin-left: 10rpx;
+}
+.line .line-right{
+  float: right;
+  margin-right: 10rpx;
+}
+.line .caption{
+  display: block;
+  float: left;
+  font-size: 28rpx;
+  margin-top: -18rpx;
+  margin-left: 4%; 
+}
+/*2.照片墙展示区 */
+.images-show .images-show-scroll{
+  width: 100%;
+  height: 400rpx;
+  margin-top: -25rpx;
+  margin-bottom: 15rpx;
+  display: flex;
+
+}
+.images-show .images-show-scroll .images-show-area{
+  width: 340rpx;
+  height: 400rpx;
+  display:  inline-block;
+  
+}
+.images-show .images-show-scroll navigator{
+
+  width: 340rpx;
+  height: 340rpx;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 28rpx;
+  border-radius: 50%;
+  position: relative;
+}
+.images-show .images-show-scroll navigator image{
+  border-radius: 50%;
+  border: 6rpx solid #ddd;
+  box-shadow: 8rpx 8rpx 14rpx #333;
+  display: block;
+  margin: 20rpx auto;
+  width: 80%;
+  height: 80%;
+}
+.images-show .images-show-scroll  .des{
+  font-size: 30rpx;
+  font-weight: 700;
+  letter-spacing: 0.2rem;
+  text-align: center;
+  /* text-shadow: 1rpx 2rpx 3rpx #000; */
+  color:#36A5DA;
+  margin-left: 8rpx;
+  margin-top:-20rpx;
+
+}
+.images-show .images-show-scroll navigator .dot{
+  width: 20rpx;
+  height: 20rpx;
+  background-color: #fff;
+  border-radius: 50%;
+  position: absolute;
+  left: 50%;
+  top: 44%;
+  margin-left: -10rpx;
+  margin-top: -10rpx;
+  box-shadow: 4rpx 4rpx 6rpx #000 inset;
+}
+/* 夏令营视频区 */
+.camp-video .video{
+  width: 90%;
+  margin: 14rpx auto 30rpx;
+  border: 2rpx solid #ddd;
+  box-shadow:4px 2px 8px #555;
+  box-sizing: border-box;
+}
+
+.camp-video .video .video-inside{
+  width: 92%;
+  margin: 0 auto 20rpx;
+}
+.video .icon{
+   width: 32rpx;
+   height: 32rpx;
+   margin: -4rpx 0;
+}
+.video .video-title{
+  font-size: 32rpx;
+}
+/* 信息区域 */
+.message-area navigator{
+  width: 100%;
+  height: 60rpx;
+  line-height:  60rpx;
+  font-size: 26rpx;
+  color: #222;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+}
+.message-area text{
+    font-size: 20rpx;
+  color: #666;
+  display: block;
+  float: right;
+}

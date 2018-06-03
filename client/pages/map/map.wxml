@@ -1,0 +1,9 @@
+<map id="map" show-location="true" longitude="113.380630" latitude="23.201560" scale="14" controls="{{controls}}" bindcontroltap="controltap" markers="{{markers}}" bindmarkertap="markertap" polyline="{{polyline}}" bindregionchange="regionchange" show-location style="width: 100%; height: 1010rpx;"></map>
+
+<view class="nav">
+  位置： 广州市天河区龙洞广东金融学院
+  <view class="btn">
+    <button bindtap="reach" hover-class="other-button-hover">去这里</button>
+  </view>
+
+</view>

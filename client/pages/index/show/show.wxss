@@ -1,0 +1,82 @@
+/* pages/swiper/show/show.wxss */
+
+/* 下层页面 */
+.page-bottom{
+  width: 25%;
+  height: 100%;
+  position: fixed;
+}
+.wc{
+  width: 100%;
+  height: 120rpx;
+  line-height: 120rpx;
+  font-size: 26rpx;
+  background-color: #36A5DA;
+  border: 4rpx solid #fff;
+  padding: 6rpx 20rpx;
+  box-sizing: border-box;
+  color: #fff;
+
+}
+.on{
+  background-color: #eee;
+  color: #36A5DA;
+}
+/* 上层页面 */
+.page-top{
+  width: 100%;
+  background-color: #eee;
+  transition: all 0.7s;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+/* 菜单开关按钮 */
+.page-top .icon{
+
+  position: absolute;
+  left: 0;
+  top: 50%;
+  margin-top: -30rpx;
+}
+.page-top .icon image{
+  width: 60rpx;
+  height: 60rpx;
+}
+.page-top .tt{
+  width: 80%;
+  height: 80rpx;
+  color: #36A5DA;
+  text-shadow:0 0 1px currentColor,-1px -1px 1px #030,0 -1px 1px #030,1px -1px 1px #030,1px 0 1px #030,1px 1px 1px #030,0 1px 1px #030,-1px 1px 1px #030,-1px 0 1px #030;
+  letter-spacing: 0.5rem;
+  display: inline-block;
+  text-align: center;
+  line-height: 80rpx;
+  font-size: 46rpx;
+  margin-left: 60rpx;
+}
+/* 
+侧栏动画 */
+.c-state1 {
+  transform: rotate(0deg) scale(1) translate(20%, 0%);
+  transition: all 1s;
+}
+
+
+.page-top .top{
+  width: 100%;
+  height: 80rpx;
+  line-height: 80rpx;
+  border-bottom: 4rpx solid #fff;
+  box-shadow: 6rpx 5rpx 3rpx #ddd;
+  box-sizing: border-box;
+  background-color: #bbb;
+  padding-left: 20rpx;
+  color: #333;
+  margin-top: 2rpx;
+  position: relative;
+}
+.page-top .showPic{
+  margin-top: 20rpx;
+  text-align: center;
+}

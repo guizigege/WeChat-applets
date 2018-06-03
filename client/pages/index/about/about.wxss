@@ -1,0 +1,52 @@
+.swiper-tab{  
+    width: 100%;  
+    border-bottom: 2rpx solid #777777; 
+    box-sizing: border-box; 
+    text-align: center;  
+    line-height: 80rpx;}  
+.swiper-tab-list{  
+    font-size: 30rpx;  
+    display: inline-block;  
+    width: 25%;  
+    color: #777777;  
+}  
+.on{ 
+    color: #B22222;  
+    border-bottom: 5rpx solid #B22222;
+    box-sizing: border-box;
+}  
+.swiper-box{ 
+    font-size: 30rpx;
+    line-height: 40rpx;
+    display: block; 
+    height: 100%; 
+    width: 100%; 
+    overflow: hidden; 
+    padding: 10rpx 4rpx 0rpx 4rpx;
+    box-sizing: border-box;
+    text-indent: 60rpx;
+}
+.swiper-box text{
+    font-weight: bold;
+}
+.swiper-box .hot{
+     color:	#B22222;
+}
+
+.swiper-box .mt-20{
+   margin-top: 20rpx;
+}
+.bg image{
+  width:140%;
+  height:600rpx;
+  opacity:0.12;
+  margin-left:-80rpx;
+  margin-top:100rpx;
+
+}
+
+.logo{
+  width: 60rpx;
+  height: 60rpx;
+  margin-bottom: -10rpx;
+}

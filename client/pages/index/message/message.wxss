@@ -1,0 +1,80 @@
+.message-bg{
+  width: 100%;
+  height: 1240rpx;
+  background-color: #ddd;
+  position: relative;
+  
+}
+ .message-bg image{
+  width: 100%;
+  height: 1200rpx;
+} 
+
+.title-1{
+  font-size:  50rpx;
+  font-weight:  700;
+  font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgba(178, 34, 34, 0.7);
+  text-shadow: 4rpx 4rpx 6rpx #222;
+  position: absolute;
+  top: 28rpx;
+  left: 62rpx;
+
+}
+.title-2{
+  color: #e0dfdc;
+  letter-spacing: .08em;
+  position: absolute;
+  top: 38rpx;
+  right: 64rpx;
+  text-shadow: 
+      0 -1px 0 #fff, 
+      0 1px 0 #2e2e2e, 
+      0 2px 0 #2c2c2c, 
+      0 10rpx 10rpx rgba(0, 0, 0, 0.7);
+  /* transform: rotate(-3deg); */
+}
+
+.wrap{
+  width: 700rpx;
+  position: absolute;
+  left: 40rpx;
+  top: 140rpx;
+}
+
+.wrap .content navigator{
+  font-size: 30rpx;
+  line-height: 30rpx;
+  margin:36rpx;
+  border-bottom:4rpx solid #ccc;
+
+}
+.btn-growp{
+  width: 500rpx;
+  height: 60rpx;
+  margin: 0 auto;
+}
+
+.fl{
+  float: left;
+}
+.hidden{
+  display: none;
+}
+.fr{
+  float: right;
+}
+
+.btn-growp button{
+  color: #222;
+  width: 140rpx;
+  height: 50rpx;
+  line-height: 50rpx;
+  font-size:  24rpx;
+  background-color: rgba(255,255,255,0);
+  box-shadow: 3rpx 3rpx 4rpx #222;
+
+}
+.btn-growp .button-hover{
+  box-shadow: 3rpx 3rpx 3rpx #000 inset;
+} 

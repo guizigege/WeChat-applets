@@ -1,0 +1,87 @@
+<!-- 轮播图 -->
+<swiper class="swiper" indicator-dots="true" autoplay="{{swiperData.autoplay}}" interval="{{swiperData.interval}}" duration="{{duration}}">
+  <block wx:for="{{swiperData.imgUrls}}" wx:key="{{item.id}}">
+    <swiper-item>
+      <image src="{{item.image}}" class="slide-image" model="aspectFit" style="width:100%;height: 100%" />
+    </swiper-item>
+  </block>
+</swiper>
+
+<!-- 菜单导航 -->
+<view class="nav">
+  <view class="bar-title">
+    菜单导航
+  </view>
+  <view class="nav-content">
+  
+    <view class="nav-content-item" wx:for="{{navData}}" wx:key="{{item.id}}">
+      <navigator class="nav-img" style="{{item.color}}" url="{{item.url}}"><image src="{{item.imageUrl}}" /></navigator>
+      <text class="nav-text">{{item.text}}</text>
+    </view>
+  </view>
+</view>
+
+<!-- 推荐课程 -->
+<view class="recommend">
+  <view class="bar-title"> 推荐课程
+  </view>
+  <view class="recommend-container clearfix">
+    <view class="recommend-content">
+        <navigator wx:for="{{recommendData}}" wx:key="{{item.id}}" url="{{item.url}}"><image src="{{item.imageUrl}}"/><text class="caption">{{item.des}}</text></navigator>
+    </view>
+  </view>
+</view>
+<!-- 游学精彩照片墙 -->
+<view class="ImgaeWall">
+    <view class="bar-title"> 游学照片墙
+    </view>
+    <view class="imageWall-content">
+      <view class="line">
+        <view class="line-left"></view><text class="caption">往届游学精彩图片</text><view class="line-right"></view>
+      </view>
+      <view class="images-show" >
+        <scroll-view  scroll-x class="images-show-scroll">
+        <!-- <view class="images-show-area">
+          <navigator wx:for="{{wallImage}}" wx:key="{{item.key}}" hover-class="none" bindtap="changeIndex"><image src="{{item.imageUrl}}"  data-src="{{item.imageUrl}}"  id="{{item.key}}"/><text class="des">{{item.des}}</text><view class="dot"></view></navigator>
+        </view> -->
+
+
+
+          <view style="width: 280%;height: 440rpx">
+                        <view wx:for="{{wallImage}}" wx:key="{{item.key}}"class="images-show-area">
+                <navigator bindtap="changeIndex"  hover-class="none" ><image src="{{item.imageUrl}}" data-src="{{item.imageUrl}}"  id="{{item.key}}"/><view class="dot"></view></navigator>
+                <view  class="des">{{item.des}}</view>
+          </view> 
+          
+          </view>
+        </scroll-view>
+      </view>
+    </view>
+</view>
+<!-- 夏令营视频 -->
+<view class="camp-video">
+   <view class="bar-title"> 夏令营视频
+       <view class="more"><navigator url="video/video">更多>></navigator></view>
+   </view>
+   
+   <view class="section tc">
+   <view class="video" wx:for="{{videoData}}" wx:key="{{item.id}}">
+    <view class="video-inside">
+     <view class="video-title"><image class="icon" src="../../images/tabBarImg/videoBq.png"/>{{item.dec}}</view>
+     <video src="{{item.videoSrc}}" poster="{{item.videoPoster}}" controls show-fullscreen-btn direction="90"  style="width:100%" bindplay="startPlay" data-id="{{item.dataId}}" id="{{item.videoId}}"></video>
+     </view>
+   </view>
+   </view>
+</view>
+<!-- 讯息速递 -->
+<view class="message">
+  <view class="bar-title"> 讯息速递
+       <view class="more"><navigator url="message/message">更多>></navigator></view>
+  </view>
+  <view class="message-area">
+        <navigator wx:for="{{showMessage}}" wx:key="{{item.express_id}}" wx:if="{{index<6}}" bindtap="changeMessage" data-id="{{item.express_id}}">{{item.express_title}}<text>{{item.express_time}}</text></navigator>
+  </view>
+</view>
+
+
+

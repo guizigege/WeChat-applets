@@ -1,0 +1,801 @@
+<!--pages/swiper/course/england/england.wxml-->
+<view>
+    <image src="http://www.qmcamp.com/image/us/part1/us6.jpg" style="width: 100%"></image>
+</view>
+
+
+<view class="fw red">2018暑假美国加州圣地亚哥微留学，加州大学+国际学校学习+环球影城+划艇训练+寄宿家庭15日</view>
+
+<view class="hot-bg">
+      <view class="price inline fr fw">￥28800/人</view>
+      <view class="active fw">优惠活动:<view class="price discount" bindlongpress="show1" bindtouchend="hidden1">优惠券<view class="tip tip1" wx:if="{{show1}}" >1、每人可使用往期发放的优惠券两张。 
+2、新报名的同学每人发放两张优惠券，可赠与别人或下次参加其他线路使用。</view></view> <view class="price discount" bindlongpress="show2" bindtouchend="hidden2">早鸟优惠<view class="tip tip2" wx:if="{{show2}}" >1、5人组团报名每人可优惠500元。（4月份报名早鸟优惠） 
+2、早鸟优惠与优惠券不可同时使用。</view></view> </view>
+      
+  
+
+</view> 
+
+<view><text class="fw">行程时间：</text>2018年8月13日-8月27日，15天</view>
+
+
+<view class="line"></view>
+<view>
+   <view class="fw"><text class="blue">特色推荐：</text></view>
+   <view>★ 超高性价比：全程学习生活全方位照顾，圣地亚哥著名国际学校老师授课，纯正英语，游学兼备</view>
+   <view>★ 质量保证：6届品质，独特行程安排，深入式游学，拒绝走马观花</view>
+   <view>★ 全英环境：体验纯正24小时英语环境，全程由圣地亚哥学校当地老师带领活动，中国老师护送陪同。</view>
+   <view>★ 温馨提示：全面体验美国文化适合8-22岁学生参加（家长可陪）</view>
+   <view>★ 签证便利：获得十年美国签证，今后十年内任意出入美国，不限制次数。</view>
+</view>
+<view class="line"></view>
+
+
+
+<view>
+  <view class="spa">圣地亚哥简介</view>
+  <view class="fw red">夏日美国</view>
+  <view class="ti">美国是世界最发达的资本主义国家，在两次世界大战中，美国和其他盟国取得胜利，经历数十年的冷战，在苏联解体后，成为目前唯一的超级大国，在经济、文化、工业等领域都处于全世界的领先地位。美国丰富的自然资源和多样的民族文化使它成为极具吸引力的旅游国家。在大平原的西部大山区，有著名的大峡谷国家公园和黄石国家公园；靠太平洋的西海岸地区有风光绮旎、阳光灿烂的加利福尼亚州，旧金山和洛杉矶就位于此。在北部近加拿大边界附近，有著名的五大湖游览区，其中最壮观的景点是尼亚加拉大瀑布。此外，位于美国西面太平洋上的夏威夷群岛也是全球闻名的度假胜地。还有适于冒险者的科罗拉多大峡谷。
+</view>
+  <view><image src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3217435719,2755457520&fm=200&gp=0.jpg" class="picture"/></view>
+  <view class="fw red">圣地亚哥</view>
+  <view>  
+      <view class="ti">圣地亚哥（英语：San Diego，又译圣迭戈、圣地牙哥），美国加利福尼亚州的一个太平洋沿岸城市。位于美国本土的极端西南角，以温暖的气候和多处的沙滩著名。在人口上是加州的第二大城，美国的第八大城。同时也是圣地亚哥县的首府和圣地亚哥-卡尔斯巴德-圣马科斯都市圈的经济中心 今日的圣地亚哥是美国太平洋舰队的总部，也是海军航空站在西岸的基地。这个受欢迎的加州的发源地有理想的气候、了无边际的沙滩、深海港口和各种让人留恋往返的景点。你可以在这个人间仙境去尝试打高尔夫球、网球、冲浪、潜水、风帆、钓鱼、滑水、骑马、溜冰或慢跑。户外的娱乐是数不尽的。在这里有很多娱乐场：圣地牙哥动物园、海洋世界、海港村和专业运动员队伍们的表演。</view> 
+  </view> 
+</view>
+
+<view class="line"></view>
+<view>
+  <view class="spa">夏令营特色</view>
+  <view class="fw red">美国夏令营/微留学</view>
+  <view class="ti">在圣地亚哥，人们大部分的时光是在冲浪板上和太平洋的沙滩上休闲放松度过的。在这游学可以使你深切体会到无与伦比的大自然风光和人文建筑。这里土地肥沃，气候怡人，无边无际的金色沙滩和深海港口，户外娱乐数之不尽，被评为美国最佳气候城市，誉为“加州诞生之地”，是美国著名的旅游、度假圣地，是一座安静而古老却不乏现代气息的海军基地城市。游学圣地亚哥，感受中美文化差异带来的激烈碰撞，体验最棒的南加州悠闲生活方式。这也将是你自我展示的一次大好机会，如何在异国他乡照顾自己，是否有勇气开口去老外对话，一次游学，带你挑战自己，证明自己。</view>
+  <view>
+        <image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3450735343,1374410183&fm=27&gp=0.jpg" class="picture"/>
+  </view>
+  <view class="fw red">课程特色</view>
+  <view>
+    <view class="ti">访学时间及课程2018年夏季访学时间为：2018年8月13日至8月27日，共计15天。根据不同的学习目标、学生的英语水平和专业背景、及参加访学的目标，学生首先进行入学测试，然后根据成绩分班，主要学习英语及美国文化课程。前6届已经有100名同学参加了本访学项目，收获很大。 英语及美国文化课程简介该课程通过两周的学习可以提高英文水平、了解美国社会、增进对不同文化的认识和理解、提高创新意识和国际意识的同学。通过与来自世界各地的国际学生一起学习，提高英语水平和国际交流能力。课程内容包括英语听说读写、美国历史、美国文化等，并辅以专题讲座、小组讨论及校园文化实践、国际学生交流活动、圣地亚哥大学参观访问等形式，拓宽学生的国际视野，切实提高英语使用的综合能力。学习结束，学生可以获得学校颁发的英语课程学时证书，作为今后出国留学，申请海外学校的重要依据。</view>
+  </view>
+  <view class="fw red">行程特色</view>
+  <view>
+    <view class="ti">性价比高的访学项目：圣地亚哥国际学校教育水平高，学习费用低; 地理环境好，既有商业发达城市的富裕与繁华，又有海滨城市的美丽与宁静； 完备的寄宿家庭体系，快速提高英语能力，全面体验美国文化; 项目成熟稳定，学习机会多，近距离探访接触美国大学校园学习和生活; 地理优势使学生与丰富的课余活动近在咫尺，包括参观海洋世界，洛杉矶环球影城、中途岛航空母舰，克罗那多岛，圣地亚哥老城等人文，历史，自然的美景。</view>
+    <view>【费用低廉】本项目属于国际交换生计划项目，名额有限，比类似行程节省10000元费用。</view>
+    <view>【寄宿家庭】全寄宿家庭制，全程入住圣地亚哥当地中产家庭（全部由圣地亚哥政府审查指定），生活由老外临时父母照顾，包括吃饭，洗衣，娱乐。既能够了解异域的生活方式，又能锻炼自己的英语交流能力。</view>
+    <view>【全英环境】体验纯正24小时英语环境，全程由圣地亚哥学校当地老师带领活动，中国老师仅仅护送陪同。</view>
+    <view>【深刻体验】拒绝走马观花旅游团式行程，深入深入再深入，充分利用时间，深刻体验美国人的生活方式。</view>
+    <view>【签证便利】获得十年美国签证（今后该政策可能取消），今后十年内都可以出入美国，不限制次数。</view>
+  </view>
+
+  <view class="line"></view>
+  <view class="fw blue" style="text-align:center">====访学收获====</view>
+  <view class="fw red">★ 访学经历增加了申请国外一流大学的竞争力</view>
+   <view class="fw red">★ 访学经历增加就业竞争力</view>
+     <view class="fw red">★ 亲自观察异国的风景、亲身体验他国的文化</view>
+     <view class="fw red">★ 访学是自我历练的过程</view>
+     <view class="fw red">★ 访学是提高自我认知、自我发现的过程</view>
+  <view class="fw red">★ 即学即用是最有效的学习语言的方式</view>
+
+  <view>
+        <image src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2920947848,3196568343&fm=27&gp=0.jpg" class="picture"/>
+  </view>
+ 
+
+  <view class="line"></view>
+  <view class="spa">费用说明</view>
+  <view class="red fw">行程费用</view>
+  <view>
+      <view class="fw">15天28800元全包</view>
+      <view>费用包括：往返机票及税费、签证费、境外保险、住宿、早餐午餐晚餐、课程学习、交通费、校外活动、参观游览文化探访的所有门票。费用不含国内交通费用、广州往返香港机场的机场大巴费用，发票税费。</view>
+  </view>
+<view>
+      <view class="fw red">早鸟优惠：</view>
+      <view>1、5人同时报名，每人优惠500元。</view>
+      <view>2、每人可以使用往届发放的优惠券两张。</view>
+</view> 
+
+<view class="line"></view>
+
+
+
+  <view clas="line"></view>
+  <view class="spa" style="border-bottom: 2rpx solid #777">行程介绍</view>
+  <view class="swiper-tab"> 
+    <view style="border-bottom: 2rpx solid #777;box-sizing: border-box">
+      <view class="swiper-tab-list {{currentTab==0 ? 'on' : ''}}" data-current="0" bindtap="swichNav">第一天</view>  
+      <view class="swiper-tab-list {{currentTab==1 ? 'on' : ''}}" data-current="1" bindtap="swichNav">第二天</view>  
+      <view class="swiper-tab-list {{currentTab==2 ? 'on' : ''}}" data-current="2" bindtap="swichNav">第三天</view>  
+      <view class="swiper-tab-list {{currentTab==3 ? 'on' : ''}}" data-current="3" bindtap="swichNav">第四天</view> 
+      <view class="swiper-tab-list {{currentTab==4 ? 'on' : ''}}" data-current="4" bindtap="swichNav">第五天</view> 
+    </view>
+    <view style="border-bottom: 2rpx solid #777;box-sizing: border-box">
+      <view class="swiper-tab-list {{currentTab==5 ? 'on' : ''}}" data-current="5" bindtap="swichNav">第六天</view>  
+      <view class="swiper-tab-list {{currentTab==6 ? 'on' : ''}}" data-current="6" bindtap="swichNav">第七天</view>  
+      <view class="swiper-tab-list {{currentTab==7 ? 'on' : ''}}" data-current="7" bindtap="swichNav">第八天</view>  
+      <view class="swiper-tab-list {{currentTab==8 ? 'on' : ''}}" data-current="8" bindtap="swichNav">第九天</view> 
+      <view class="swiper-tab-list {{currentTab==9 ? 'on' : ''}}" data-current="9" bindtap="swichNav">第十天</view>
+      </view>
+
+      <view class="swiper-tab-list {{currentTab==10 ? 'on' : ''}}" data-current="10" bindtap="swichNav">第十一天</view>  
+      <view class="swiper-tab-list {{currentTab==11 ? 'on' : ''}}" data-current="11" bindtap="swichNav">第十二天</view>  
+      <view class="swiper-tab-list {{currentTab==12 ? 'on' : ''}}" data-current="12" bindtap="swichNav">第十三天</view>  
+      <view class="swiper-tab-list {{currentTab==13 ? 'on' : ''}}" data-current="13" bindtap="swichNav">第十四天</view> 
+      <view class="swiper-tab-list {{currentTab==14 ? 'on' : ''}}" data-current="14" bindtap="swichNav">第十五天</view>
+</view>  
+
+
+      <view wx:if="{{show[0]}}" data-id="1">
+        
+          <view class="fw red">第1天 全国各地-香港 洛杉矶 圣地亚哥 寄宿家庭</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view><text class="fw">航班：</text>全国各地</view>
+                <view class="ti">香港飞洛杉矶（直飞），转大巴抵达圣地亚哥，与寄宿家庭见面，由临时父母开车接回家晚上入住寄宿家庭。(具体集合时间与地点，出团前会详细电话邮件通知)全国各地的同学和家长可以在广州集合，统一前往香港机场乘机出发。也可以自行前往香港机场，和领队老师机场汇合出发。集合出发事宜请咨询客服老师。
+。</view>
+          </view>
+
+          
+
+         
+
+          <view>
+                <image src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=865401798,593206246&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          <view>  
+                <view><text class="blue">下午</text></view>
+                <view class="fw">抵达洛杉矶国际机场，学校大巴接机，前往圣地亚哥与寄宿家庭见面</view>
+          </view>   
+
+          <view>
+                <view><text class="blue">晚上</text></view>
+                <view class="fw">寄宿家庭接同学们回家</view>
+                <view>入住美国当地寄宿家庭</view>
+          </view> 
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：敬请自理；午餐：敬请自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>
+
+
+
+          <view>
+                <view><text class="blue">温馨提示</text></view>
+                <view>集合出发方式（不用带港澳通行证）： </view>
+                <view>1、同学们可以根据航班时间提前抵达香港机场同领队老师汇合（国内交通费用自理）</view>
+
+                <view>2、可以在广州汇合，由领队老师统一带领，乘坐机场大巴抵达香港机场（大巴费用自理）</view>
+                <view>3、可以在深圳口岸与领队老师汇合，一起过关抵达香港机场（大巴费用自理）  </view>
+                <view>4、单独参加的同学必须到广州集合，统一出发。老师到机场或车站接站，如果提前一天集合，可以安排食宿（费用自理）</view>
+                  
+          </view>
+        
+
+      </view>
+
+
+       <view wx:if="{{show[1]}}" data-id="2">
+        
+          <view class="fw red">第2天 入学测试-课程学习 游览圣地亚哥市中心</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">上午入学测试-课程学习，下午游览圣地亚哥市中心</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">开学典礼-入学测试</view>
+                <view class="ti">上午开学典礼及英语分级测试，然后根据成绩分班学习（每天三个小时9：00—12：15）</view> 
+          </view> 
+
+          <view>
+                <image src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1314710643,2066549310&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">圣地亚哥市中心休闲参观</view>
+                <view class="ti">瓦斯灯街区（区内19世纪古老煤气灯随处可见）西班牙风情的Gaslamp区位在圣地亚哥市中心，由充满19世纪维多利亚式建筑物的历史街区而成，集圣地亚哥最棒美食、娱乐及流行。在大型超市购买生活必需品。
+</view>    
+          </view> 
+
+
+       <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：敬请自理；午餐：敬请自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>
+  
+ 
+
+      </view>
+
+
+       <view  wx:if="{{show[2]}}" id="3">
+        
+          <view class="fw red">第3天 课程学习 参观中途岛号航母</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">上午课程学习-下午参观中途岛号航母</view>
+          </view>
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">英语学习</view>
+                <view class="ti">英语学习3小时</view>
+          </view> 
+          <view>
+                <image src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=160845189,1139183374&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">中途岛号航空母舰博物馆</view>
+                <view class="ti">餐后参观中途岛号航母，参观这艘庞然巨物的舰桥，飞行甲板，飞机库，航空交通管制台，战略指挥中心，机房，官兵宿舍，海军司令和舰长的寝室等各种设施。在甲板和飞机库中，停放着25架美国海军从二战到沙漠风暴时期的各种军用飞机。你还可以登上航母的指挥塔，感受体会驾驶这个庞然大物的激动心情。在甲板和飞机库中，停放着25架美国海军从二战到沙漠风暴时期的各种军用飞机。</view>
+                  
+          </view> 
+
+
+
+           <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：敬请自理；午餐：敬请自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>
+  
+ 
+
+      </view>
+
+
+      <view  wx:if="{{show[3]}}" id="4">
+          <view class="fw red">第4天 课程学习 午游览巴布亚公园 美国自然科学博物馆</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">上午课程学习-下午游览巴布亚公园-美国自然科学博物馆</view>
+          </view>
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">课程学习</view>
+                <view class="ti">3个小时课程学习，与世界各地同学同窗共读</view> 
+          </view> 
+          <view>
+                <image src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3733663696,1964068511&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">巴布亚公园</view>
+                <view class="ti">巴布亚公园有“美国大城市文化公园”之称。这里曾经举办过两届世界博览会，西班牙殖民复兴风格建筑和高雅开阔的庭院深深吸引着慕名而来的游客，看着这些建筑仿佛把人们的记忆引向百年前。园内的装饰相当华美是一个综合性花园，花园集博物馆和植物园于一体，绝对值得来此光顾一趟。</view>
+                <view class="red fw">美国自然科学博物馆</view>
+                <view class="ti">参观美国自然科学博物馆，圣地亚哥自然博物馆(San Diego Natural History Museum)位于圣地亚哥巴波亚公园内，博物馆中揭示了人类的发展及自然的演化过程。</view>
+          </view> 
+       <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：敬请自理；午餐：敬请自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>  
+      </view>
+
+
+      <view  wx:if="{{show[4]}}" id="5">
+          <view class="fw red">第5天 课程学习 攀岩拓展训练</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">上午课程学习-下午攀岩拓展训练</view>
+          </view>
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">课程学习</view>
+                <view class="ti">学习英语3个小时</view> 
+          </view> 
+          <view>
+                <image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=808488087,4278298749&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">攀岩拓展训练</view>
+                <view class="ti">攀岩训练，享受攀岩的乐趣。攀岩训练将会持续75分钟。专业的攀岩训练场地会在训练前提供安全挂钩，技术纯熟的教练会解说相关安全规定，确保攀岩者安全，锻炼协调性及攀岩技巧，同学们可以增强胆量，加强团队精神。</view>
+   
+        
+          </view> 
+
+<view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：敬请自理；午餐：敬请自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>  
+
+      </view>
+
+
+      <view  wx:if="{{show[5]}}" id="6">
+          <view class="fw red">第6天 洛杉矶好莱坞环球影城</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">周末全天前往洛杉矶好莱坞环球影城游览</view>
+          </view>
+          <view>  
+                <view><text class="blue">全天</text></view>
+                <view class="red fw">好莱坞环球影城</view>
+                <view class="ti">好莱坞环球影城是好莱坞非常吸引人的去处，这里你可以参观电影的制作过程，回顾经典影片片断。影城内有三个游览区，分别是电影车之旅(全程40分钟的电影之旅，有专门的讲解员)、影城中心与娱乐中心。参观LA环球影城（Universal Studios），感受意想不到的神奇场面，乘船回到恐龙时代的侏罗纪公园，乘电动拖车赴各电影拍摄布景区，真实感受芝加哥大火的热浪冲击、旧金山大地震等场景的惊心动魄，切身体验极佳的音响灯光和电影科幻特技效果。</view> 
+          </view> 
+          <view>
+                <image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=3362556350,1853596492&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：敬请自理；午餐：敬请自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>  
+      </view>
+
+
+      <view  wx:if="{{show[6]}}" id="7">
+          <view class="fw red">第7天 寄宿家庭欢聚</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">周末全天与寄宿家庭欢聚</view>
+          </view>
+          <view>  
+                <view><text class="blue">全天</text></view>
+                <view class="red fw">圣地亚哥家庭日活动</view>
+                <view class="ti">全天与寄宿家庭欢聚，享受感觉美国普通老百姓的假日生活。可以与寄宿家庭成员一起去教堂做礼拜，海边烧烤漫步，逛大型商场等等。
+</view>  
+          </view> 
+          <view>
+                <image src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=81050950,405313916&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+          
+        
+           <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：敬请自理；午餐：敬请自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>   
+      </view>
+
+
+      <view  wx:if="{{show[7]}}" id="8">
+        
+          <view class="fw red">8天 课程学习 圣地亚哥时尚街区——Fashion vally</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">上午课程学习-下午游览圣地亚哥时尚街区——Fashion vally</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">课程学习</view>
+                <view class="ti">学习英语3小时</view> 
+          </view> 
+
+          <view>
+                <image src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3397603020,968244332&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">下午游览圣地亚哥时尚街区——Fashion vally</view>
+                <view class="ti">圣地亚哥时尚的街区，这里现代化的建筑设施比比皆是，风景秀丽，店铺林立，吃住行玩齐备，享受美食，逛街，购物，休闲。体验美国城市生活的好去处。</view>
+
+        
+          </view> 
+
+
+      
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：敬请自理；午餐：敬请自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>   
+ 
+
+      </view>
+
+
+
+      <view  wx:if="{{show[8]}}" id="9">
+        
+          <view class="fw red">第9天 圣地亚哥海洋世界</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">全天游览圣地亚哥海洋世界—全世界闻名</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">全天</text></view>
+                <view class="red fw">全天游览圣地亚哥海洋世界—全世界闻名</view>
+                <view class="ti">全天游览世界上超大的海洋世界（The Sea World），亲眼目睹巨大的杀人鲸，搭乘橡皮圆艇在 Shipwreck Rapids 游乐设施内体验全身湿透的快感，获得有关海洋世界和海洋动物的知识。其他的精彩表演还有海豚、海狮、宠物、鸟类表演等。来海洋公园一定要做好全身湿透的准备，可自备雨衣。游乐设施里面有名的是海洋过山车和空中之塔。</view>
+
+         
+          </view> 
+
+          <view>
+                <image src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1141305784,55148576&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+  
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：敬请自理；午餐：敬请自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>   
+ 
+ 
+
+      </view>
+
+
+
+      <view  wx:if="{{show[9]}}" id="10">
+          <view class="fw red">第10天 课程学习 加州大学圣地亚哥分校(UCSD)</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">上午课程学习-下午访学加州大学圣地亚哥分校(UCSD)</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">课程学习</view>
+                <view class="ti">学习英语3小时</view>
+
+          </view> 
+
+          <view>
+                <image src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=729867434,3708346392&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">访学加州大学圣地亚哥分校(UCSD)</view>
+                <view class="ti">加州大学圣地亚哥分校（University of California San Diego ）位于美国加利福尼亚州圣地亚哥（美国第五大城市）的拉乔拉，校园占地面积达到5平方公里，是一所知名度很高的综合性公立大学。加州大学圣地亚哥分校有着宽裕的联邦教育经费与世界级的研究实验室教室设备和专业图书馆等，更使其在各种权威校际评鉴中，始终名列前茅，圣地亚哥分校现有约一万八千名学生，校内各种设施样样齐全，奥林匹克游泳池、先进的健康运动设施中心、书店、戏院、音乐厅、各种不同口味的餐厅、社团文化中心等，应有尽有，在此学习英文你将有机会体验到真正的美国式大学生活。</view>
+          </view> 
+
+
+ 
+
+       
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：敬请自理；午餐：敬请自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>   
+ 
+ 
+
+      </view>
+     
+       <view  wx:if="{{show[10]}}" id="11">
+          <view class="fw red">第11天 课程学习 科罗纳多岛</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">课上午课程学习-下午参观科罗纳多岛（游船浪漫之旅）</view>
+          </view>
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">课程学习</view>
+                <view class="ti">学习英语3个小时</view> 
+          </view> 
+          <view>
+                <image src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1252974186,4109898703&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">参观科罗纳多岛</view>
+                <view class="ti">午餐后参观科罗纳多岛(Coronado island),体验出类拔萃的海滩和世界著名的度假村，体验明媚的阳光，湛蓝的大海，红顶白墙的西班牙建筑，盛开的天堂鸟花，随处可以感受到宁静而安逸的魅力。 探索著名的有着悠久历史的科罗纳多酒店，亲眼看看那让人过目难忘的庞大的五层楼建筑群以及鲜明的红色屋顶。</view>
+                           
+          </view> 
+
+
+       
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：敬请自理；午餐：敬请自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>   
+ 
+ 
+ 
+
+      </view>
+
+        <view  wx:if="{{show[11]}}" id="12">
+          <view class="fw red">  第12天 课程学习 毕业典礼 拉荷亚海滩</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">上午课程学习-毕业典礼-下午前往拉荷亚海滩-独木舟划艇训练</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">课程学习</view>
+                <view class="ti">课程学习，然后毕业典礼，颁发毕业证书</view> 
+          </view> 
+
+          <view>
+                <image src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=588593219,127428782&fm=11&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">前往拉荷亚海滩-独木舟划艇训练</view>
+                <view class="ti">去圣地亚哥风光旖旎的拉荷亚海滩进行独木舟划艇训练，在碧波荡漾的太平洋上和教练一起探寻加州海岸风光。</view>
+
+          </view> 
+
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：敬请自理；午餐：敬请自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>   
+ 
+ 
+ 
+
+      </view>
+       
+         <view  wx:if="{{show[12]}}" id="13">
+          <view class="fw red">第13天 圣地亚哥与墨西哥边境-奥特莱斯品牌折扣店</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">周末全天前往圣地亚哥与墨西哥边境-奥特莱斯品牌折扣店餐</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">圣地亚哥与墨西哥边境</view>
+                <view class="ti">圣地亚哥与墨西哥边境-品尝地道的墨西哥小吃</view> 
+          </view> 
+
+          <view>
+                <image src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3075162704,3186162218&fm=11&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+           <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：敬请自理；午餐：敬请自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>   
+
+      </view>
+     
+
+       <view  wx:if="{{show[13]}}" id="14">
+          <view class="fw red">第14天 告别寄宿家庭 洛杉矶国际机场 香港</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">告别寄宿家庭，前往洛杉矶国际机场，返回香港</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">前往洛杉矶：收拾行装，与朝夕相处10多天的寄宿家长拥抱，挥泪告别</view>
+                <view class="ti">洛杉矶机场DFS环球免税店购物逛街，为家长朋友买礼物，花掉最后一分钱</view> 
+          </view> 
+
+          <view>
+                <image src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=2556317714,1655090939&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：敬请自理；午餐：敬请自理；晚餐：已含</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">与寄宿家庭欢聚</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">公共交通</view>
+                <view>学校给每个同学发放一张本地交通卡，学生乘坐地铁或者公交车往返寄宿家庭</view>
+          </view>   
+ 
+
+      </view>
+    
+
+       <view  wx:if="{{show[14]}}" id="15">
+          <view class="fw red">第15天 飞跃太平洋 香港</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="ti">飞跃太平洋抵达香港</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">课程学习</view>
+                <view class="ti">学习英语3个小时</view> 
+          </view> 
+
+          <view>
+                <image src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=462317518,3409343885&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+         <view>
+                <view><text class="blue">餐饮</text></view>
+                <view class="fw">早餐：敬请自理；午餐：敬请自理；晚餐：敬请自理</view>
+          </view>
+
+           <view>
+                <view><text class="blue">住宿</text></view>
+                <view class="fw">返回温暖的家</view>
+          </view>
+
+           <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">航班:</view>
+                <view>飞机返回祖国</view>
+          </view>   
+ 
+ 
+
+      </view>
+
+
+</view>
+

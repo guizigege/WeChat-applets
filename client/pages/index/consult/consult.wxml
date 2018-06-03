@@ -1,0 +1,124 @@
+<!-- 头部滑动菜单栏 -->
+<view class="swiper-tab">  
+    <view class="swiper-tab-list {{currentTab==0 ? 'on' : ''}}" data-current="0" bindtap="swichNav">报名</view>  
+    <view class="swiper-tab-list {{currentTab==1 ? 'on' : ''}}" data-current="1" bindtap="swichNav">行程</view>  
+    <view class="swiper-tab-list {{currentTab==2 ? 'on' : ''}}" data-current="2" bindtap="swichNav">学习</view>  
+    <view class="swiper-tab-list {{currentTab==3 ? 'on' : ''}}" data-current="3" bindtap="swichNav">生活</view>
+    <view class="swiper-tab-list {{currentTab==4 ? 'on' : ''}}" data-current="4" bindtap="swichNav">游览</view>
+</view>  
+  
+<swiper current="{{currentTab}}" class="swiper-box" duration="300" style="height:{{winHeight - 31}}px" bindchange="bindChange">  
+    <!-- 报名-->  
+    <swiper-item>  
+      <view>
+          <view class="hot"><image src="../../../images/bug.png" class="bug"/><text>1.参加清迈游学报名手续及流程是什么？</text></view>
+          <view>
+          ①在清迈游学营官方网站（www.qmcamp.com)或者碧雪教育微信公众号下载报名表填好后发送电子版至cm@qmcamp.com邮箱，由我们打印盖章，再快递给回你签字。
+②通过报名表第二页上所写的三种方式缴纳全部费用（银行转账、淘宝旗舰店、广州办公室交现金）。
+③如需代办签证，需准备签证资料快递给我们 。
+④出发前会发放游学营各种资料：学生手册，队服，行李标签等等，外地同学会通过快递邮寄。
+          </view>   
+      </view> 
+
+       <view>
+          <view class="hot"><text>2.参加清迈游学营有没有年龄要求？小孩子没有英语基础是否可以？</text></view>
+          <view>清迈游学对年龄没有限制，但是8岁以下孩子需家长陪同参加，孩子的吃住行玩和家长在一起。而且会专门为8岁以下孩子安排英语启蒙班课程，由丰富教学经验的英国或美国老师，进行启蒙英语教学，提供适合小孩子的课程安排和教材。</view>   
+      </view> 
+
+       <view>
+          <view class="hot"><text>3.护照怎么样办理？泰国签证怎么样办理？</text></view>
+          <view>护照是是需要您亲自前往当地公安机关办理的，不能代办。一般办理护照需要15个工作日。已有护照的营员要检查护照有效期是否有半年以上，否则要重新办理。 
+泰国需要签证才可以入境。签证可以提前办理好，也可以入境时候办理落地签，不过落地签费用比较高。报名时候营员可以委托我们办理泰国签证：280元一个人。报名时请说明。</view>   
+      </view> 
+
+       
+    </swiper-item>  
+    <!-- 行程 -->  
+    <swiper-item>  
+       
+         <view>
+         
+          <view class="hot"> <image src="../../../images/T.jpg" class="logo"/><text>去泰国清迈游学是否安全？如何确保安全？</text></view>
+          <view>安全是我们清迈游学营带队老师的第一要务，要绝对保证。我们已经连续举办了很多年，经验非常丰富，往届没有任何安全问题出现。
+（1）、泰国清迈人人信佛，民众素质高，对人诚恳祥和，社会治安非常好。
+（2）、泰国政局这几年很稳定，在也没有什么红衫军游行示威。
+（3）、多名泰国旅行经验丰富的领队老师，生活老师，24小时全程陪同（衣食住行和学习），时时刻刻关注孩子的一举一动，酒店大门配备门禁系统，24小时视频监控，非常安全。学生是不允许私自出去活动，例如晚上要买雪糕，也是要老师陪同一起去买。
+（4）、全程高额境外旅游保险，24小时提供紧急救援服务。
+（5）、学生每人都要求有泰国手机卡，可以随时和老师家长保持畅通的联络。
+（6）现场行程直播：每天老师会在微信群，QQ群直播我们的活动，家长可以每时每刻了解孩子在干什么，可以看见实时的照片。
+（7）所有活动和参观游玩都有专车接送，在街道行走都是带队老师们陪同。</view>   
+        </view> 
+
+    </swiper-item>  
+    <!-- 学习 -->  
+    <swiper-item>  
+      
+       <view>
+          <view class="hot"><image src="../../../images/bug.png" class="bug"/><text>1.清迈游学在哪里上课？会不会学成不伦不类的泰式英语？</text></view>
+          <view>清迈游学营在清迈本地的国际学校上课，不会学成泰式英语，不是泰国老师上课。国际学校都是英国，美国，加拿大等地的资深老师授课，口音纯正并且使用美国原版教材。</view>   
+      </view> 
+
+          <view>
+          <view class="hot"><text>2.怎么样进行入学前分班测试？</text></view>
+          <view>分班测试分为笔试和口语测试，笔试主要是语法和词汇的选择题，口试是外教一对一口语面试，最终根据两个测试的成绩总评进行分班。</view>   
+      </view> 
+
+
+          <view>
+          <view class="hot"><text>3.清迈游学营学习每个班多少人？有没有外国同学一起上课？</text></view>
+          <view>均是小班教学，每班学生人数是6到10人之间，最多不超过10人。周一至周五的课程是小班自组班教学，没有外国同学。周六日两天是国际班课程，有外国同学一起学习。</view>   
+      </view> 
+   <view>
+          <view class="hot"><text>4.清迈游学营每天的上课时间是什么时候？</text></view>
+          <view>周一到周五一般安排每天下午3：00—5：00上课，白天其他时间都安排各种参观游览文化交流的活动。周六、周日上课时间为上午10：00—12：00，是国际班课程。</view>   
+      </view> 
+ 
+    </swiper-item> 
+     <!-- 生活 --> 
+    <swiper-item> 
+      <view>
+          <view class="hot"><image src="../../../images/bug.png" class="bug"/><text>1.清迈游学营住宿环境怎么样？几个人一间房？</text></view>
+          <view>同学们和家长住宿在清迈古城中心位置的4星级酒店，2个人一间房。房间配备冰箱，彩电，空调，热水器和独立卫生间，免费的wifi。每天赠送2瓶矿泉水。</view>   
+      </view> 
+
+             <view>
+          <view class="hot"><text>2.在泰国怎样换泰铢？</text></view>
+          <view>1) 最方便，经济的是在国内办理一张出国取现免手续费的银行卡，使用银联卡取现，汇率是按照当天国内的挂牌汇率结算。
+(2) 可以带人民币和美元兑换，清迈街头的兑换店很多，非常方便。
+(3) 信用卡也可使用，但在清迈除非是在比较大的商场才能使用信用卡。</view>   
+      </view>
+
+          <view>
+          <view class="hot"><text>3.我的孩子万一生病了怎么办？</text></view>
+          <view>首先建议根据自身健康和常见疾病的自备一些药品。带队老师会配带医疗应急的相关用品，来应对意外事件的发生。如果必要的话，领队会带孩子去医院看医生。我们会确保有足够的保险能够支付这些支出，我们为每位团员所购买的旅游及医疗保险含有24小时的紧急救援和医疗费服务，让同学和家长安心享受旅游的乐趣。</view>   
+      </view> 
+
+    </swiper-item>
+     <!-- 游览 -->
+    <swiper-item>  
+        <view>
+          <view class="hot"><image src="../../../images/bug.png" class="bug"/><text>1.清迈游学营安排的各种活动是否额外收费？</text></view>
+          <view>不会，在清迈游学营行程表上所写的所有活动均不会额外收费。</view>   
+      </view> 
+     <view>
+          <view class="hot"><text>2.清迈游学营是否安排自由活动时间？</text></view>
+          <view>清迈游学营会为家长和营员安排一定的自由活动时间，但没有家长陪同的学生必须由老师带领下才可以自由活动。</view>   
+      </view> 
+     <view>
+          <view class="hot"><text>3.成人或者家长是否可以自行安排外出活动？</text></view>
+          <view>成人或家长可以自行安排外出活动，但必须签署离队保证书，并保证自身安全的前提下。</view>   
+      </view> 
+
+             <view>
+          <view class="hot"><text>4.如果家长或者同学没有参加某天活动或者学习，费用可以退吗？</text></view>
+          <view>如果家长或者学生自愿放弃或者因事不能参加，费用是不能退还，耽误的课程也不能补。</view>   
+      </view> 
+
+       <view>
+          <view class="hot"><text>5.清迈游学营特色活动有哪些？</text></view>
+          <view>特色活动包括也是免费拥抱活动、航空模型制作，大象便便乐园，温泉煮鸡蛋等，具体可见学生手册行程安排。</view>   
+      </view> 
+
+
+    </swiper-item>   
+</swiper>  

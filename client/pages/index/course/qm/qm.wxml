@@ -1,0 +1,836 @@
+<view>
+    <image src="http://www.qmcamp.com/image/chiangmai/part1/cm4.jpg" style="width: 100%"></image>
+</view>
+
+
+<view class="fw red">清迈英语夏令营(亲子)10天-国际学校英语学习+深度游+特色活动</view>
+
+<view class="hot-bg">
+      <view class="price inline fr fw">￥7800/人</view>
+      <view class="active fw">优惠活动:<view class="price discount" bindlongpress="show1" bindtouchend="hidden1">优惠券<view class="tip tip1" wx:if="{{show1}}" >1、每人可使用往期发放的优惠券1张。
+2、新报名的同学每人发放2张优惠券，可赠与别人或下次参加其他线路使用。</view></view> <view class="price discount" bindlongpress="show2" bindtouchend="hidden2">早鸟优惠<view class="tip tip2" wx:if="{{show2}}" >1、3月份报名早鸟特别优惠，具体请联系客服老师。 
+2、早鸟优惠与优惠券不可同时使用。</view></view> </view>
+      
+  
+
+</view> 
+
+<view><text class="fw">行程时间：</text>2018年7月17日-2018年7月26日，共计10天9晚</view>
+
+
+<view class="line"></view>
+<view>
+   <view class="fw"><text class="blue">特色推荐：</text></view>
+   <view>★ 超高性价比：全程学习生活全方位照顾，清迈著名国际学校英国/美国老师授课，纯正英语，游学兼备</view>
+   <view>★ 质量保证15届品质， 独特亲子行程安排，深入式游学，拒绝走马观花</view>
+   <view>★ 游学兼备： 半天清迈参观游览，亲子游，半天国际学校英语学习</view>
+   <view>★ 温馨提示：8岁以上建议单独参加，8岁以下家长陪同</view>
+
+</view>
+<view class="line"></view>
+
+
+
+<view>
+  <view class="spa">清迈简介</view>
+  <view class="fw red">泰北玫瑰清迈</view>
+  <view class="ti">泰北玫瑰——清迈。 虽然是泰国第二大城市和泰北经济中心，清迈与忙碌喧嚣的曼谷截然不同。这里宁静甜美，是邓丽君最钟爱的城市。作为兰纳王国的故都，清迈散发着迷人的古典气质。气候凉爽，四季百花争艳，是东南亚著名的避暑旅游胜地，被称为“泰北玫瑰”。清迈城内遍布古色古香的寺庙殿堂，白色的墙壁、红色的屋顶、金色的飞檐在阳光下交相辉映，造型独特的泰北式佛塔雄伟而又别致。寺庙中的僧人和当地居民一样谦和友善，乐于和游客讨论一切关于佛教和清迈历史文化的问题。</view>
+  <view><image src="http://img4.imgtn.bdimg.com/it/u=2862564436,2235578164&fm=27&gp=0.jpg" class="picture"/></view>
+  <view class="fw red">为什么选择清迈游学？（国际范儿+小清新+文化底蕴）</view>
+  <view>  
+      <view>1、有着泰北玫瑰美誉的清迈，700年历史古城，有传统文化，历史古迹，MIX现代城市，自然风景，值得探访</view>
+      <view>2、得天独厚的自然环境与度假氛围吸引了20万常住于此的西方人。英语，俨然成为这里的第二语言。</view>
+      <view>3、7月清迈，平均气温25-32度，是清迈很凉爽的季节，非常适合来度假避暑。泰国国王的避暑山庄就在清迈。</view>
+      <view>4、8岁以上孩子强烈建议单独参加游学，锻炼孩子独立自主能力，3个经验丰富生活老师全程照顾陪同孩子，每天微信群行程直播，家长高枕无忧。</view>
+  
+  </view> 
+  <view class="fw red">为什么要去清迈学英语？（国际学校课程，小班授课）</view>
+  <view class="ti">在国际化的环境中说英语，用快乐闲适的方式学习，体会自主学习的快乐，体验当地传统文化，尝试在新环境中如何适应，在户外活动中如何自立、勇敢和自信，也学会互助、尊重、友善与感恩。</view>
+</view>
+
+<view class="line"></view>
+<view>
+  <view class="spa">夏令营特色</view>
+  <view class="fw red">第16届泰国清迈英语夏令营（亲子营）2018年7月17日—7月26日，共10天</view>
+  <view class="ti">【碧雪教育】从2011起开始成功举办第一届清迈夏令营、冬令营，是国内第一家开展清迈游学活动的教育机构，目前已成功举办了15届清迈游学营。超高性价比，独特的学习和行程安排，别具一格的文化交流活动，以及高水平、经验丰富的领队老师（全部为在职大学老师），受到家长和同学们的一致好评。2012年起碧雪教育又拓展了美国圣地亚哥，新西兰奥克兰微留学，英国剑桥牛津夏令营，日本动漫文化夏令营。参加过清迈游学的同学，大部分会继续参加我们的其他游学线路。一直被模仿，从未被超越！碧雪教育将一如既往为家长和同学们提供优质教育服务。</view>
+  <view>
+        <image src="http://img0.imgtn.bdimg.com/it/u=1327100599,4167910299&fm=27&gp=0.jpg" class="picture"/>
+  </view>
+  <view class="fw red">【清迈本地高质量国际学校课程，小班教学】</view>
+  <view>
+    <view>★启蒙班课程：为8岁以下孩子量身定制的启蒙英语课程，专注孩子们的语感和兴趣培养，课堂气氛活跃，寓教于乐。</view>
+    <view>★青少年课程：针对8-18岁的学生，第一天进行分级测试，根据成绩进入不同的班级学习（自组班），小班教学（10人以下），强调实践应用能力，真正做到边学边用英语。</view>
+    <view>★毕业获得国际学校毕业证书,以后真正留学申请外国学校，可以获得加分。</view>
+  </view>
+
+  <view class="fw red">【“游”与“学”并行，游学兼备】</view>
+  <view class="ti">家长与孩子们一起探访泰北兰纳文化发源地，了解泰国的文化和宗教；一起走访清迈古城，自然风光，游览素贴山蒲屏宫、古城帕辛寺、清迈动物园、大象营地等，一起暴走清迈夜市，吃遍美食，学做泰国菜。还有特别策划的夜市“免费拥抱”活动。</view>
+  <view>
+        <image src="http://img2.imgtn.bdimg.com/it/u=2773001699,2992937329&fm=27&gp=0.jpg" class="picture"/>
+  </view>
+
+  <view class="fw red">【爸妈甩娃半日闲，去享受难得的清闲】</view>
+  <view class="ti">趁着孩子们去上课，不上课的爸爸妈妈也请调整频率，契合到慢节奏的度假模式。叹咖啡，赏庙宇，逛街市，学做菜，泰式按摩，在特色小店与集市淘宝。不用去管每天柴米油盐芝麻绿豆，尽管放松身心，好好珍惜这难得的“无娃一身轻”的自由。 而每天上午的亲子行程精心安排，则是等待家长和孩子们开启的美好亲子时光。</view>
+
+  <view class="fw red">【清迈美食之旅，吃货的幸福很简单】</view>
+  <view class="ti">一段精彩而充实的旅程又怎少得了美食相伴？别担心花多眼乱要费心挑选，我们已为您精选了人气口碑俱佳的本地餐厅——用料讲究的食材，完全满足你味蕾和视觉的多重享受。</view>
+  <view>
+        <image src="http://img4.imgtn.bdimg.com/it/u=3926617623,4102566749&fm=27&gp=0.jpg" class="picture"/>
+  </view>
+
+  <view class="fw red">【特色活动-航空模型制作大赛】</view>
+  <view class="ti">专业老师培训孩子制作航空模型，讲解航空知识，锻炼孩子动手能力，激发孩子科学探索的兴趣，让孩子远离手机，远离游戏。ps:最吸引孩子的活动，没有之一。</view>
+
+  <view class="fw red">【特色活动-给我一个拥抱，爱的传递】</view>
+  <view class="ti">清迈游学特别组织了“给我一个拥抱”活动。在著名的清迈周末夜市上与外国游客拥抱，把爱传递别人也把爱心放射给有需要的人。</view>
+  <view class="fw red">【特色活动—亲密接触动物与自然，去爱~】</view>
+  <view class="ti">在大象营里亲密接触陆地上最大的哺乳动物，陪大象玩。在清迈动物园喂食各种各样小动物，引发孩子与动物的和谐共处和关爱动物的环保意识。</view>
+
+
+  <view class="line"></view>
+  <view class="spa">费用说明</view>
+  <view class="red fw">报名须知</view>
+  <view>
+      <view class="fw">2018年第16届清迈夏令营/亲子营：</view>
+
+      <view>1.签证手续简单，只需有效期半年以上护照，近期大1寸标准证件照片2张。</view>
+      <view>2.八周岁以上可以独立参加，有一定的英语词汇量和听说能力。喜欢结交朋友，有一定独立生活能力，遵守夏生守则，服从老师管理。</view>
+      <view>3.热爱大自然，喜欢探访新奇事物。</view>
+      <view>4.八岁以下需大人陪同参加，家长费用和孩子一样。</view>
+  </view>
+  <view class="fw red">课程费用</view>
+  <view class="fw red">7800元（全程入住星级酒店，高标准餐饮安排）</view>
+  <view> 家长与孩子同价，报名时全额缴纳营费。
+【费用包括】：保险，住宿及清迈交通、早餐午餐、参观游览，运动休闲、英语培训。
+【费用不包括】：往返机票、签证，广州往返香港或者澳门机场大巴费用，每天晚餐，可免费为您代订机票和代办签证）。</view>
+<view>【代办机票签证价格】：<text class="red">实报实销</text></view>
+<view>
+      <view class="fw red">早鸟优惠：</view>
+      <view>1、5人同时报名，每人优惠300元。</view>
+      <view>2、每人可以使用往届发放的优惠券一张.</view>
+</view> 
+
+<view>
+    <view class="red fw">私教课程费用：</view>
+    <view>1、私教课程安排在每天晚上19:00—21:00，最多2个小时每晚。</view>
+    <view>2、一对一：120元每小时每人；一对二：100元每小时每人：一对三；80人每小时每人。</view>
+    <view>3、入学测试结束后召开私教见面会，选择私教课程。私教老师有限，先到先得。</view>
+</view>
+<view class="line"></view>
+
+
+
+  <view clas="line"></view>
+  <view class="spa" style="border-bottom: 2rpx solid #777">行程介绍</view>
+  <view class="swiper-tab"> 
+    <view style="border-bottom: 2rpx solid #777;box-sizing: border-box">
+      <view class="swiper-tab-list {{currentTab==0 ? 'on' : ''}}" data-current="0" bindtap="swichNav">第一天</view>  
+      <view class="swiper-tab-list {{currentTab==1 ? 'on' : ''}}" data-current="1" bindtap="swichNav">第二天</view>  
+      <view class="swiper-tab-list {{currentTab==2 ? 'on' : ''}}" data-current="2" bindtap="swichNav">第三天</view>  
+      <view class="swiper-tab-list {{currentTab==3 ? 'on' : ''}}" data-current="3" bindtap="swichNav">第四天</view> 
+      <view class="swiper-tab-list {{currentTab==4 ? 'on' : ''}}" data-current="4" bindtap="swichNav">第五天</view> 
+    </view>
+    
+      <view class="swiper-tab-list {{currentTab==5 ? 'on' : ''}}" data-current="5" bindtap="swichNav">第六天</view>  
+      <view class="swiper-tab-list {{currentTab==6 ? 'on' : ''}}" data-current="6" bindtap="swichNav">第七天</view>  
+      <view class="swiper-tab-list {{currentTab==7 ? 'on' : ''}}" data-current="7" bindtap="swichNav">第八天</view>  
+      <view class="swiper-tab-list {{currentTab==8 ? 'on' : ''}}" data-current="8" bindtap="swichNav">第九天</view> 
+      <view class="swiper-tab-list {{currentTab==9 ? 'on' : ''}}" data-current="9" bindtap="swichNav">第十天</view>
+</view>  
+
+
+      <view wx:if="{{show[0]}}" data-id="1">
+        
+          <view class="fw red">第1天 全国各地出发抵达清迈</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view><text class="fw">航班：</text>全国各地飞清迈（自理）</view>
+                <view>单独前往清迈的同学，老师在清迈机场24小时接机。家长陪同参加的有专业司机接机前往酒店。</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="fw">餐饮</text></view>
+                <view>早餐自理，午餐自理，晚餐自理，由老师带队前往推荐用餐地点自行用餐</view>
+                <view>晚餐费用大概每人10-20元人民币，丰俭由人。</view>
+          </view> 
+
+          <view>
+                <image src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2592368518,1164574910&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          <view>  
+                <view><text class="blue">住宿安排</text></view>
+                <view class="fw">酒店</view>
+                <view>【4星级酒店】位于古城中心，步行10分钟即可到学校，标准房，丰盛自助早餐，空调\卫星电视\热水\免费WIFI\电冰箱\内线电话\游泳池\健身房\SPA。地理位置优越，附近大商场、超市、饭店、按摩，一应俱全，非常方便。</view>
+                <view>【高标准餐饮安排】美食之旅，泰国菜，自助餐，日式料理等等，尽享泰北美食。</view>
+          </view>   
+
+          <view>
+                <view><text class="blue">交通安排</text></view>
+                <view class="fw">飞机</view>
+                <view>全国各地出发坐飞机抵达清迈。</view>
+          </view> 
+
+
+          <view>
+                <view><text class="blue">特别说明：</text></view>
+                <view>1、家长陪同孩子参加清游学的可以自行直接从所在地飞往清迈机场（机票签证自行解决），专业司机接机（提供航班号）。</view>
+
+                <view>2、8岁以上单独参加的同学，建议前往广州集合，领队老师统一带领出发前往机场，直飞清迈（机票签证保险统一购买，指定航班，可以免费代购，具体请咨询客服老师）。 PS：强烈建议8岁以上孩子单独参加游学，对孩子的锻炼和收获是家长陪同不能比拟的。清迈游学期间有4-5名经验丰富的领队老师悉心照顾同学们的生活学习，安全保证。</view>
+                  
+          </view>
+        
+
+      </view>
+
+
+       <view wx:if="{{show[1]}}" data-id="2">
+        
+          <view class="fw red">第2天 清迈 - 清迈古城寺庙参观—入学测试—欢迎晚宴</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="red fw">清迈古城寺庙参观—入学测试— 欢迎晚宴</view>
+                <view class="ti">早餐后参观古城寺庙，购买生活用品，下午前往学校分级测试，然后私教见面会。晚上举行盛大欢迎晚宴，享用泰式美食。</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">清迈古城</view>
+                <view class="ti">清迈最让人着迷的莫过于老城了。老城有700多年历史，呈四方形，至今仍保留着部分老城墙和完整的护城河。老城门中，南门清迈门（Chiang Mai Gate）和东门塔佩门（Tha Pae Gate）保存较好。老城内有众多传统庙宇，大佛塔寺、帕邢寺、清曼寺等伫立其中。同时，老城也是一个充满生活烟火气的地方。南门边是一处大市场，游客和当地人都喜欢来这里走走。沿着护城河，各种小吃摊一溜排开，从主食到甜品应有尽有。小贴士：老城不大，步行即可走遍。</view>
+
+                 <view>  
+                    <view><text class="red fw">清迈著名寺庙参观</text></view>
+                    <view class="ti">历史悠久的清迈古城有大大小小300多所寺庙，而坐落在古城中轴线的帕辛寺是清迈最重要的一所寺庙，仰望巍峨的佛塔寺庙，听老师娓娓讲述清迈的历史文化传奇，感受心中那一份宁静。</view>
+    
+                  </view>  
+          </view> 
+
+          <view>
+                <image src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3412001545,296273890&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">清迈国际学校入学测试</view>
+                <view class="ti">下午家长和同学们一起前往清迈国际学校，熟悉校园环境，欢迎仪式后进行入学分班测试，进行口语和笔试测试，根据成绩分班，进入不同等级的课堂学习。</view>
+
+            <view>
+                <view class="red fw">私教见面会</view>
+                <view class="ti">部分家长增加课程的要求，下午安排了私教见面会。自愿参加私教课的同学家长可以和私教老师见面。私教老师全部是英国美国的老师，晚上上门为大家上一对二，一对三的私教课程（自费），每个小时收费仅仅100元人民币，超高性价比（国内同样私教课程至少300元人民币），见面会双向选择，自行确定老师，确定上课时间。不参加私教课程同学在酒店稍事休息，马上出发去欢迎晚宴吃大餐。</view>
+
+               
+                  
+            </view>
+        
+          </view> 
+
+
+         <view>  
+                <view><text class="blue">晚上</text></view>
+                <view class="red fw">晚餐: 欢迎晚宴-清迈千人火锅</view>
+                <view class="ti">千人火锅原名泰式炭烧火锅（Moo Kata），在这里可以品尝到最正宗的泰式火锅，各种各样的海鲜、糕点、热菜、鲜肉片等你来“战”，五颜六色的泰式酱料在每个人的舌尖绽放，让大家感受到泰国的有滋有味。当然，还有同学们最感兴趣的ice-cream！大饱眼福的同时也大饱口福。</view>
+
+                 <view>  
+                    <view><text class="red fw">清迈著名寺庙参观</text></view>
+                    <view class="ti">历史悠久的清迈古城有大大小小300多所寺庙，而坐落在古城中轴线的帕辛寺是清迈最重要的一所寺庙，仰望巍峨的佛塔寺庙，听老师娓娓讲述清迈的历史文化传奇，感受心中那一份宁静。</view>
+    
+                  </view>  
+          </view> 
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view>早餐包含，午餐包含，晚餐包含</view>
+                <view>酒店早餐，泰式午餐，晚餐：晚上举行盛大欢迎晚宴-清迈千人火锅</view>
+          
+          </view>
+
+          <view>
+                <view><text class="blue">住宿安排</text></view>
+                <view>前往4星级酒店</view>
+                <view>酒店位于清迈古城中心，极具泰北特色，周边即是繁华的古城和寺庙，生活非常便利。</view>
+          
+          </view> 
+
+            <view>
+                  <view><text class="blue">交通安排</text></view>
+                  <view>双条车</view>
+                  <view>全天坐双条车游览参观。</view>
+            </view>   
+ 
+
+      </view>
+
+
+       <view  wx:if="{{show[2]}}" id="3">
+        
+          <view class="fw red">第3天 清迈素贴山-双龙寺-普屏皇宫-课程学习</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="red fw">清迈素贴山-双龙寺-蒲屏皇宫-课程学习</view>
+                <view class="ti">早餐后前往清迈最具盛名的素贴山游览，观景台俯览清迈全景，参观皇家避暑行宫—浦屏宫，以及藏有佛祖舍利子的素贴寺。下午清迈国际学校英语学习，晚上整理内务，完成暑假作业。</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">素贴山</view>
+                <view class="ti"><text class="fw">素贴山</text>海拔1667米，山坡上开满五色玫瑰，山顶白云缭绕，风光秀丽。步行300级台阶到达山顶的观景台可将清迈市区全景尽收眼底，是清迈的天然了望台。</view>
+
+                 <view>  
+                    <view><text class="red fw">参观双龙寺和蒲屏皇宫</text></view>
+                    <view class="ti"><text class="fw">双龙寺</text>是泰国著名的佛教避暑胜地，位于泰国清迈，是一座由白象选址、皇室建造，充满传奇色彩的庙宇，传说有位锡兰高僧带了几颗佛舍利到泰国，其中一颗在兰纳第六个王的寺庙供奉了13年，他为了想让自己的百姓也能够供奉佛舍利，所以就让4位小兵跟随自己的白象寻找圣地。大象一直往现在的素贴山，就在现在所看到的塔处停下，然后白象死了。王就建立塔在这里，让他的人民也可以供奉释迦牟尼的舍利。又由于山路两旁有两只金龙守护，所以便叫做“双龙寺”。蒲屏皇宫 为泰国皇室的避暑行宫，该行宫完工于1962年。每年1-3月王室人员来此居住。在皇室人员不住在这里的时候，平日宫外花园向游人开放，游客可以参观。整个王宫为泰式建筑，花园内草木葱郁，花木秀丽，种有玫瑰、鼠尾草和各种奇花异草。这里异常凉爽，百花盛开，景色美不胜收。王宫白墙黄瓦，建筑格调雅致，坐落在周围的青山之中，自有一分清凉平和之美。</view>
+    
+                  </view>  
+          </view> 
+
+          <view>
+                <image src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1099728298,2043381910&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">清迈女子监狱按摩馆</view>
+                <view class="ti">不上课的家长，利用孩子学习的时间，偷得浮生半日闲，在老师带领下享受清迈著名的泰式按摩，放松一下疲惫的身心。 结束后返回酒店，等待孩子放学一起晚餐。</view>
+
+            
+          </view> 
+
+
+         <view>  
+                <view><text class="blue">晚上</text></view>
+                <view class="red fw">私教课程</view>
+                <view class="ti">预定了私教课程的同学利用晚上时间在酒店上私教课程，继续好好学习，天天向上。 其他同学在老师指点下完成今天的日记和作业。</view>
+
+              
+          </view> 
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view>早餐包含，午餐包含，晚餐包含</view>
+                <view>酒店早餐，泰式午餐，晚餐：晚上举行盛大欢迎晚宴-清迈千人火锅</view>
+          
+          </view>
+
+          <view>
+                <view><text class="blue">住宿安排</text></view>
+                <view>前往4星级酒店</view>
+                <view>酒店位于清迈古城中心，极具泰北特色，周边即是繁华的古城和寺庙，生活非常便利。</view>
+          
+          </view> 
+
+            <view>
+                  <view><text class="blue">交通安排</text></view>
+                  <view>双条车</view>
+                  <view>全天坐双条车游览参观。</view>
+            </view>   
+ 
+
+      </view>
+
+
+      <view  wx:if="{{show[3]}}" id="4">
+        
+          <view class="fw red">第4天 清迈 - 温泉公园-泰丝手工艺村</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="red fw">清迈 - 温泉公园-泰丝手工艺村</view>
+                <view class="ti">早餐后前往清迈最大的国家温泉地质公园，观赏20多米高的温泉喷泉，品尝温泉煮鸡蛋，参观泰丝制作基地，看看蚕宝宝的一生。下午英语学习，晚上整理内务，完成作业。</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">游览清迈温泉地质公园</view>
+                <view class="ti">位于清迈东边市郊的San Kamphaeng（三根潘）温泉区是泰国国家温泉地质公园所在地。公园里树木郁郁葱葱，公园中心的2个温泉泉眼常年喷发不停，高温水柱喷涌高达10几米，一进公园门就可以听到喷发的嘶嘶声。温泉水富含硫磺，以至于整个公园都被浓浓的臭鸡蛋味道覆盖。温泉出水口的温度高达107摄氏度，温泉水首先被引入蓄水池，在这个蓄水池，游客可以用竹篮煮鸡蛋。一篮鸡蛋放入15分钟就可以煮熟，煮出来的鸡蛋别有风味。温泉水在蓄水池稍微冷却以后就流入沟渠，通过沟渠的逐级降温达到人体可以忍受的温度。游客可以在沟渠边泡脚休闲，在温泉水中泡澡可以洗去一天的疲劳，非常惬意。</view>
+
+                 <view>  
+                    <view><text class="red fw">游览泰丝村</text></view>
+                    <view class="ti">清迈泰丝工艺中心 泰丝是泰国最著名的传统特产，有着700多年的历史，因其质地轻柔、色彩亮丽、光泽绚烂而闻名于世。泰国东北部素辇府塔萨旺村，是著名的手工泰丝产地。养过蚕的同学最喜欢的项目，看着蚕宝宝吐丝，结茧，最后变成一张美丽的丝绸，体验自然界的神奇。</view>
+    
+                  </view>  
+          </view> 
+
+          <view>
+                <image src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3048988864,2320027801&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">尚泰清迈机场购物中心</view>
+                <view class="ti">不上课家长老师带领下去清迈最大最现代化的购物广场休闲逛街购物。结束后返回酒店，等待孩子放学共进晚餐。</view>
+
+            <view>
+                <view class="red fw">清迈国际学校课程学习</view>
+                <view class="ti">课程: 2小时英美老师的英语课程学习（学生班）。</view>
+
+               
+                  
+            </view>
+        
+          </view> 
+
+
+         <view>  
+                <view><text class="blue">晚上</text></view>
+                <view class="red fw">私教课程</view>
+                <view class="ti">预定了私教课程的同学利用晚上时间在酒店上私教课程，继续好好学习，天天向上。 其他同学在老师指点下完成今天的日记和作业。</view>
+
+          </view> 
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view>早餐包含，午餐包含，晚餐包含</view>
+                <view>酒店早餐，泰式午餐，晚餐：晚上举行盛大欢迎晚宴-清迈千人火锅</view>
+          
+          </view>
+
+          <view>
+                <view><text class="blue">住宿安排</text></view>
+                <view>前往4星级酒店</view>
+                <view>酒店位于清迈古城中心，极具泰北特色，周边即是繁华的古城和寺庙，生活非常便利。</view>
+          
+          </view> 
+
+            <view>
+                  <view><text class="blue">交通安排</text></view>
+                  <view>双条车</view>
+                  <view>全天坐双条车游览参观。</view>
+            </view>   
+ 
+
+      </view>
+
+
+      <view  wx:if="{{show[4]}}" id="5">
+          <view class="fw red">第5天 清迈 - 清迈动物园-瓦洛洛市场-唐人街</view>
+          <view class="fw red">清迈 - 清迈动物园-瓦洛洛市场-唐人街</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="red fw">清迈 - 清迈动物园-瓦洛洛市场-唐人街</view>
+                <view>清迈动物园--瓦洛洛市场-唐人街课程学习</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">清迈动物园</view>
+                <view class="ti">观赏种类繁多的动物，与各种动物近距离亲密互动，喂食。</view> 
+          </view> 
+
+          <view>
+                <image src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=2666033891,258147769&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">清迈国际学校课程学习</view>
+                <view class="ti">课程: 2小时英美老师的英语课程学习（学生班）</view>
+
+            <view>
+                <view class="red fw">瓦洛洛市场-唐人街</view>
+                <view class="ti">孩子们开始专心学习，爸爸妈妈和孩子们暂时Say goodbye，前往瓦洛洛市场，逛市集淘宝。这里可是来清迈买纪念品的必须地哦！除了琳琅满目的商品外，不同肤色、不同面孔、不同语言的世界游人聚集于此，是多元文化交汇、融合和凝聚之地。结束后和孩子汇合，共进晚餐。</view>
+
+               
+                  
+            </view>
+        
+          </view> 
+
+
+         <view>  
+                <view><text class="blue">晚上</text></view>
+                <view class="red fw">私教课程</view>
+                <view class="ti">预定了私教课程的同学利用晚上时间在酒店上私教课程，继续好好学习，天天向上。 其他同学在老师指点下完成今天的日记和作业。</view>
+
+    
+          </view> 
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view>早餐包含，午餐包含，晚餐包含</view>
+                <view>酒店早餐，泰式午餐，晚餐：晚上举行盛大欢迎晚宴-清迈千人火锅</view>
+          
+          </view>
+
+          <view>
+                <view><text class="blue">住宿安排</text></view>
+                <view>前往4星级酒店</view>
+                <view>酒店位于清迈古城中心，极具泰北特色，周边即是繁华的古城和寺庙，生活非常便利。</view>
+          
+          </view> 
+
+            <view>
+                  <view><text class="blue">交通安排</text></view>
+                  <view>双条车</view>
+                  <view>全天坐双条车游览参观。</view>
+            </view>   
+ 
+
+      </view>
+
+
+      <view  wx:if="{{show[5]}}" id="6">
+        
+          <view class="fw red">第6天 清迈 - 航模制作大赛-清迈小资街曼宁路</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="red fw">航模制作大赛-清迈小资街曼宁路</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">航模制作大赛</view>
+                <view class="ti">早餐后全体参加航模制作大赛。老师讲解航空知识，培训同学们动手能力，比一比谁更心灵手巧。</view> 
+          </view> 
+
+          <view>
+                <image src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=245200400,13090411&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">清迈国际学校课程学习</view>
+                <view class="ti">课程: 2小时英美老师的英语课程学习（学生班）</view>
+
+            <view>
+                <view class="red fw">清迈小资街-宁曼路</view>
+                <view class="ti">不上课家长前往宁曼路，清迈著名小资一条街休闲逛街，是著名的时尚聚集区，也是清迈的年轻人喜爱的地方。小巷里各式情调的店铺、咖啡馆、酒吧、时尚小店，多为设计师、艺术家和演艺明星所开，设计感强，即使只是走走看看，也是无比惬意享受的一件事情。</view>
+
+               
+                  
+            </view>
+        
+          </view> 
+
+
+         <view>  
+                <view><text class="blue">晚上</text></view>
+                <view class="red fw">私教课程</view>
+                <view class="ti">预定了私教课程的同学利用晚上时间在酒店上私教课程，继续好好学习，天天向上。 其他同学在老师指点下完成今天的日记和作业。</view>
+
+                 <view>  
+                    <view><text class="red fw">清迈著名寺庙参观</text></view>
+                    <view class="ti">历史悠久的清迈古城有大大小小300多所寺庙，而坐落在古城中轴线的帕辛寺是清迈最重要的一所寺庙，仰望巍峨的佛塔寺庙，听老师娓娓讲述清迈的历史文化传奇，感受心中那一份宁静。</view>
+    
+                  </view>  
+          </view> 
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view>早餐包含，午餐包含，晚餐包含</view>
+                <view>酒店早餐，泰式午餐，晚餐：晚上举行盛大欢迎晚宴-清迈千人火锅</view>
+          
+          </view>
+
+          <view>
+                <view><text class="blue">住宿安排</text></view>
+                <view>前往4星级酒店</view>
+                <view>酒店位于清迈古城中心，极具泰北特色，周边即是繁华的古城和寺庙，生活非常便利。</view>
+          
+          </view> 
+
+            <view>
+                  <view><text class="blue">交通安排</text></view>
+                  <view>双条车</view>
+                  <view>全天坐双条车游览参观。</view>
+            </view>   
+ 
+
+      </view>
+
+
+      <view  wx:if="{{show[6]}}" id="7">
+          <view class="fw red">第7天 骑大象穿越热带雨林-兰花园蝴蝶谷-竹筏漂流-坐牛车</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="red fw">全天大象表演-兰花园-竹筏漂流-骑大象穿越热带雨林-坐牛车乡村漫步</view>
+                <view class="ti">早餐后全体前往大象营观赏大象表演，骑大象穿越热带雨林，牛车游览泰北农村，午餐丰盛自助餐，下午竹筏漂流，参观清迈最大兰花园和蝴蝶谷。晚上写日记，完成暑假作业，自选私教课程。</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">美丹大象营</view>
+                <view class="ti">骑大象穿越丛林，翻山涉水，体会古代皇帝以象代步的情景，品味越野情趣，此乃是人生一项难得的绝妙回亿。历史悠久的清迈古城有大大小小300多所寺庙，而坐落在古城中轴线的帕辛寺是清迈最重要的一所寺庙，仰望巍峨的佛塔寺庙，听老师娓娓讲述清迈的历史文化传奇，感受心中那一份宁静。</view>
+                 <view>  
+                    <view><text class="red fw">兰花培育室和蝴蝶园</text></view>
+                    <view class="ti">这里的兰花五颜六色的，特别漂亮，而且居然不是长泥巴土里，反而是悬空种植的。</view>
+                  </view>  
+          </view> 
+
+          <view>
+                <image src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3646786841,2034517982&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">竹筏漂流，坐牛车慢行</view>
+                <view class="ti">坐在竹筏上，穿行于热带雨林中，欣赏两岸风光，在码头乘坐泰北农村的牛车，行程在乡村小路上，细心品味农田中耕种人民脸上的微笑。</view>
+
+        
+          </view> 
+
+
+         <view>  
+                <view><text class="blue">晚上</text></view>
+                <view class="red fw">私教课程</view>
+                <view class="ti">预定了私教课程的同学利用晚上时间在酒店上私教课程，继续好好学习，天天向上。 其他同学在老师指点下完成今天的日记和作业。</view>
+
+                 <view>  
+                    <view><text class="red fw">清迈著名寺庙参观</text></view>
+                    <view class="ti">历史悠久的清迈古城有大大小小300多所寺庙，而坐落在古城中轴线的帕辛寺是清迈最重要的一所寺庙，仰望巍峨的佛塔寺庙，听老师娓娓讲述清迈的历史文化传奇，感受心中那一份宁静。</view>
+    
+                  </view>  
+          </view> 
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view>早餐包含，午餐包含，晚餐包含</view>
+                <view>酒店早餐，泰式午餐，晚餐：晚上举行盛大欢迎晚宴-清迈千人火锅</view>
+          
+          </view>
+
+          <view>
+                <view><text class="blue">住宿安排</text></view>
+                <view>前往4星级酒店</view>
+                <view>酒店位于清迈古城中心，极具泰北特色，周边即是繁华的古城和寺庙，生活非常便利。</view>
+          
+          </view> 
+
+            <view>
+                  <view><text class="blue">交通安排</text></view>
+                  <view>双条车</view>
+                  <view>全天坐双条车游览参观。</view>
+            </view>   
+ 
+
+      </view>
+
+
+      <view  wx:if="{{show[7]}}" id="8">
+        
+          <view class="fw red">第8天 国际班英语学习-学做泰国菜-游泳体育锻炼-周六夜市</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="red fw">清迈 - 国际班英语学习-学做泰国菜（家长）-游泳体育锻炼-周六夜市</view>
+                <view class="ti">早餐后学生国际班英语学习,家长则前往烹饪学校学做泰国菜。下午全体游泳体育锻炼。晚上逛清迈周六夜市。</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">国际班课程</view>
+                <view class="ti">每周六日，学校安排国际班课程学习，与外国同学同窗共读，在一个教室里进行思想火花的碰撞，互相倾诉、聆听不同文化，开阔同学们的视野。还可以留下联系方式，以便回国后进行更深的交流，发展成为挚友。</view>
+
+                 <view>  
+                    <view><text class="red fw">学做泰国菜</text></view>
+                    <view class="ti">不上课家长在老师带领下前往清迈本地厨艺学校学做原汁原味的泰国菜。</view>
+    
+                  </view>  
+          </view> 
+
+          <view>
+                <image src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=6799816,2478489517&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">游泳锻炼</view>
+                <view class="ti">下午有私教课程的同学继续私教学习，其他同学在老师的带领去游泳池进行游泳训练。</view>
+
+        
+          </view> 
+
+
+         <view>  
+                <view><text class="blue">晚上</text></view>
+                <view class="red fw">清迈周六夜市</view>
+                <view class="ti">星期六晚上在古城南边清迈门以南哇拉路Wualai Road上，一整条街上都是出售饰品、手工艺品和特产的小摊位，还有街头艺人表演。由于路段较窄，因此这个夜市规模较小，晚上8点以后会稍显拥挤。集市位于清迈城南门外，与清迈城门夜市相隔一条马路。夜市沿着护城河向南延伸，沿路都是便宜又美味的小吃摊，夜市一条街上也有不少水果摊，但更多的是卖各色工艺品的，路中间总会遇到各色卖艺人。在这里大家可以尝遍泰国各色美食！</view>
+
+                 <view>  
+                    <view><text class="red fw">清迈著名寺庙参观</text></view>
+                    <view class="ti">历史悠久的清迈古城有大大小小300多所寺庙，而坐落在古城中轴线的帕辛寺是清迈最重要的一所寺庙，仰望巍峨的佛塔寺庙，听老师娓娓讲述清迈的历史文化传奇，感受心中那一份宁静。</view>
+    
+                  </view>  
+          </view> 
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view>早餐包含，午餐包含，晚餐包含</view>
+                <view>酒店早餐，泰式午餐，晚餐：晚上举行盛大欢迎晚宴-清迈千人火锅</view>
+          
+          </view>
+
+          <view>
+                <view><text class="blue">住宿安排</text></view>
+                <view>前往4星级酒店</view>
+                <view>酒店位于清迈古城中心，极具泰北特色，周边即是繁华的古城和寺庙，生活非常便利。</view>
+          
+          </view> 
+
+            <view>
+                  <view><text class="blue">交通安排</text></view>
+                  <view>双条车</view>
+                  <view>全天坐双条车游览参观。</view>
+            </view>   
+ 
+
+      </view>
+
+
+
+      <view  wx:if="{{show[8]}}" id="9">
+        
+          <view class="fw red">第9天 国际班学习-毕业典礼午宴-古城漫游-周日夜市拥抱</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="red fw">清迈 - 国际班英语学习-毕业典礼-毕业午宴-古城漫游-周日夜市拥抱活动</view>
+                <view class="ti">早餐后学生国际班英语学习，然后毕业典礼，前往五星级酒店参加盛大的毕业午宴。家长则享受自由时光，然后前往五星级酒店参加盛大的毕业午宴。下午孩子、家长古城休闲游。晚上逛清迈周日夜市，参与特色文化交流活动，与老外爱心传递，免费拥抱活动。</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">国际班课程-毕业典礼:</view>
+                <view class="ti">上午继续和来自世界各地的同学同窗共读。同学们上完最后一节课以后，举行毕业典礼，为每个同学颁发毕业证书，和老师同学合影留念。</view>
+
+         
+          </view> 
+
+          <view>
+                <image src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=601903119,1621681981&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">清迈古城漫游</view>
+                <view class="ti">下午孩子、家长在老师的带领去清迈古城休闲逛街，购买礼物。</view>
+
+
+        
+          </view> 
+
+
+         <view>  
+                <view><text class="blue">晚上</text></view>
+                <view class="red fw">清迈周日夜市</view>
+                <view class="ti">周日夜市堪称清迈规模最大的夜市，从古城东边塔佩门广场外沿着Ratchadamnoen路及附近的几条岔道，横贯清迈古城的中心主要街道，直到帕辛寺，将近1公里。位于古城东门内的几条街道，每周日下午4点开始封闭为步行街。堪称清迈规模最大的集市。绵延将近1公里的集市，不只道路两篇有摊商，步行街中央也有摊子，所卖的东西，包罗万象，有卖生活用品的，还有露天按摩的，沿街商品不乏当地原创的生活小物件、衣饰等。清迈周日夜市享用地道晚餐。</view>
+
+                 <view>  
+                    <view><text class="red fw">周日夜市免费拥抱活动</text></view>
+                    <view class="ti">同学们分组，在老师指导下，主动在夜市找外国游客聊天说话，和他们拥抱，把爱传递到全世界。既锻炼自己的胆量，又锻炼了英语交流能力。</view>
+    
+                  </view>  
+          </view> 
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view>早餐包含，午餐包含，晚餐包含</view>
+                <view>酒店早餐，泰式午餐，晚餐：晚上举行盛大欢迎晚宴-清迈千人火锅</view>
+          
+          </view>
+
+          <view>
+                <view><text class="blue">住宿安排</text></view>
+                <view>前往4星级酒店</view>
+                <view>酒店位于清迈古城中心，极具泰北特色，周边即是繁华的古城和寺庙，生活非常便利。</view>
+          
+          </view> 
+
+            <view>
+                  <view><text class="blue">交通安排</text></view>
+                  <view>双条车</view>
+                  <view>全天坐双条车游览参观。</view>
+            </view>   
+ 
+
+      </view>
+
+
+
+      <view  wx:if="{{show[9]}}" id="10">
+          <view class="fw red">第10天 清迈 -机场免税店—返回温馨的家</view>
+          <view>
+                <view><text class="blue">行程概述</text></view>
+                <view class="red fw">收拾行李-机场免税店-启程回国-家人相聚</view>
+                <view class="ti">早餐后收拾行装，把行李装的满满的，前往机场，逛机场免税店，依依不舍离开清迈，返回甜蜜的家园。</view>
+          </view>
+
+          
+
+          <view>  
+                <view><text class="blue">上午</text></view>
+                <view class="red fw">前往机场逛免税店</view>
+                <view class="ti">前往机场逛免税店，花掉最后一个泰铢，把行李装的满满的，返回温馨的家。</view>
+
+          </view> 
+
+          <view>
+                <image src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3243586417,377382371&fm=27&gp=0.jpg" class="picture"/>
+          </view> 
+
+          
+
+          <view>
+                <view><text class="blue">下午</text></view>
+                <view class="red fw">清迈 返回 中国</view>
+                <view>飞机返回祖国各地。</view>
+          </view> 
+
+
+ 
+
+          <view>
+                <view><text class="blue">餐饮</text></view>
+                <view>早餐包含，午餐自理，晚餐自理</view>
+                <view>酒店早餐，午餐自理，晚餐自理，由老师带队前往推荐用餐地点自行用餐。</view>
+          
+          </view>
+
+          <view>
+                <view><text class="blue">住宿安排</text></view>
+                <view>自己家</view>
+                <view>返回祖国自己的家。</view>
+          
+          </view> 
+
+            <view>
+                  <view><text class="blue">交通安排</text></view>
+                  <view>飞机</view>
+                  <view>飞机返回祖国各地。单独参加清迈游学的同学有老师带领返回广州，送交家长，或者送同学们前往高铁或者机场，返回自己的家。</view>
+            </view>   
+ 
+
+      </view>
+
+
+
+</view>
